@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hugh_bonneville",
+  "name": "Hugh Bonneville",
+  "external_ids": {
+    "wikidata": "Q155775",
+    "imdb": "nm0095017"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1963,
+  "death_year": null
+}

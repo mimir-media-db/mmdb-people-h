@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_heath_ledger",
+  "name": "Heath Ledger",
+  "external_ids": {
+    "wikidata": "Q40572",
+    "imdb": "nm0005132"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1979,
+  "death_year": 2008
+}

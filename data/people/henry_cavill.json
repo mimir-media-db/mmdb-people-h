@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_cavill",
+  "name": "Henry Cavill",
+  "external_ids": {
+    "wikidata": "Q295498",
+    "imdb": "nm0147147"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1983,
+  "death_year": null
+}

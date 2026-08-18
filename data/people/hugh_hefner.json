@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hugh_hefner",
+  "name": "Hugh Hefner",
+  "external_ids": {
+    "wikidata": "Q194280",
+    "imdb": "nm0005005"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1926,
+  "death_year": 2017
+}

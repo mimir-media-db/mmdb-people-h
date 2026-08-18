@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hugh_grant",
+  "name": "Hugh Grant",
+  "external_ids": {
+    "wikidata": "Q163286",
+    "imdb": "nm0000424"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1960,
+  "death_year": null
+}

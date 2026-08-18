@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_mirren",
+  "name": "Helen Mirren",
+  "external_ids": {
+    "wikidata": "Q349391",
+    "imdb": "nm0000545"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1945,
+  "death_year": null
+}
