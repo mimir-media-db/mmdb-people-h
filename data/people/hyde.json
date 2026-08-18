@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hyde",
+  "name": "Hyde",
+  "external_ids": {
+    "wikidata": "Q306122",
+    "imdb": "nm1046946"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

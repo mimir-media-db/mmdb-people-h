@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hana_laszlo",
+  "name": "Hana Laszlo",
+  "external_ids": {
+    "wikidata": "Q287420",
+    "imdb": "nm0489713"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}
