@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_helmut_kohl",
+  "name": "Helmut Kohl",
+  "external_ids": {
+    "wikidata": "Q2518",
+    "imdb": "nm0463216"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2017
+}

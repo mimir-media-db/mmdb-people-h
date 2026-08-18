@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_rollins",
+  "name": "Henry Rollins",
+  "external_ids": {
+    "wikidata": "Q318509",
+    "imdb": "nm0738433"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

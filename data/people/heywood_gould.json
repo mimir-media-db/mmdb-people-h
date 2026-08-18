@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_heywood_gould",
+  "name": "Heywood Gould",
+  "external_ids": {
+    "wikidata": "Q3135104",
+    "imdb": "nm0332392"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

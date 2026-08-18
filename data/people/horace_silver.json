@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_horace_silver",
+  "name": "Horace Silver",
+  "external_ids": {
+    "wikidata": "Q365560",
+    "imdb": "nm0798701"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2014
+}

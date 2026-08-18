@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_haji",
+  "name": "Haji",
+  "external_ids": {
+    "wikidata": "Q1396372",
+    "imdb": "nm0354486"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2013
+}

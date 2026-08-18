@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_hamlin",
+  "name": "Harry Hamlin",
+  "external_ids": {
+    "wikidata": "Q567830",
+    "imdb": "nm0002122"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

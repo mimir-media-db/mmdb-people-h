@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_ligtvoet",
+  "name": "Hans Ligtvoet",
+  "external_ids": {
+    "wikidata": "Q13653607",
+    "imdb": "nm0989566"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
