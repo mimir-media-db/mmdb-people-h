@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_kraus",
+  "name": "Hans Kraus",
+  "external_ids": {
+    "wikidata": "Q43764",
+    "imdb": "nm0470125"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1952,
+  "death_year": null
+}

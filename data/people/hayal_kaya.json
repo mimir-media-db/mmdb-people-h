@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hayal_kaya",
+  "name": "Hayal Kaya",
+  "external_ids": {
+    "wikidata": "Q115716005",
+    "imdb": "nm14229142"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1988,
+  "death_year": null
+}

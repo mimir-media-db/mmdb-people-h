@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_han_sanping",
+  "name": "Han Sanping",
+  "external_ids": {
+    "wikidata": "Q5646675",
+    "imdb": "nm0359189"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1953,
+  "death_year": null
+}

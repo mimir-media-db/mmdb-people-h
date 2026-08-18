@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_more",
+  "name": "Henry More",
+  "external_ids": {
+    "wikidata": "Q130527281",
+    "imdb": "nm4814714"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

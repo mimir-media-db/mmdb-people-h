@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hank_corwin",
+  "name": "Hank Corwin",
+  "external_ids": {
+    "wikidata": "Q3783040",
+    "imdb": "nm0181650"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 2000,
+  "death_year": null
+}

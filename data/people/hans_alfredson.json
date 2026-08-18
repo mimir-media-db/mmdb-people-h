@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_alfredson",
+  "name": "Hans Alfredson",
+  "external_ids": {
+    "wikidata": "Q1033656",
+    "imdb": "nm0019244"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1931,
+  "death_year": 2017
+}

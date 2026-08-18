@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harvey_weinstein",
+  "name": "Harvey Weinstein",
+  "external_ids": {
+    "wikidata": "Q531599",
+    "imdb": "nm0005544"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1952,
+  "death_year": null
+}

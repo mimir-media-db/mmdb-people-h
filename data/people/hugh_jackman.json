@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hugh_jackman",
+  "name": "Hugh Jackman",
+  "external_ids": {
+    "wikidata": "Q129591",
+    "imdb": "nm0413168"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1968,
+  "death_year": null
+}

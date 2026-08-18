@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_kissinger",
+  "name": "Henry Kissinger",
+  "external_ids": {
+    "wikidata": "Q66107",
+    "imdb": "nm0457425"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1923,
+  "death_year": 2023
+}

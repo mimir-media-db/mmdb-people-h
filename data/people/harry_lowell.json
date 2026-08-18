@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_lowell",
+  "name": "Harry Lowell",
+  "external_ids": {
+    "wikidata": "Q5670749",
+    "imdb": "nm2464201"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1971,
+  "death_year": null
+}
