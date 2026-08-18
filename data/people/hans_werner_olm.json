@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_werner_olm",
+  "name": "Hans Werner Olm",
+  "external_ids": {
+    "wikidata": "Q99340",
+    "imdb": "nm0647399"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

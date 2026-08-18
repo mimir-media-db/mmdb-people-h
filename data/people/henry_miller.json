@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_miller",
+  "name": "Henry Miller",
+  "external_ids": {
+    "wikidata": "Q187765",
+    "imdb": "nm0588469"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1891,
+  "death_year": 1980
+}

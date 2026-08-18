@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_herschel_walker",
+  "name": "Herschel Walker",
+  "external_ids": {
+    "wikidata": "Q609950",
+    "imdb": "nm0907786"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_northup",
+  "name": "Harry Northup",
+  "external_ids": {
+    "wikidata": "Q3783517",
+    "imdb": "nm0636140"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}
