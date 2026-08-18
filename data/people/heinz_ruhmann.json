@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_heinz_ruhmann",
+  "name": "Heinz Rühmann",
+  "external_ids": {
+    "wikidata": "Q60876",
+    "imdb": "nm0004464"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1902,
+  "death_year": 1994
+}

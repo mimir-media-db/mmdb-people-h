@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_klok",
+  "name": "Hans Klok",
+  "external_ids": {
+    "wikidata": "Q1366683",
+    "imdb": "nm1519585"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

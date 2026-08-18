@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hayato_date",
+  "name": "Hayato Date",
+  "external_ids": {
+    "wikidata": "Q2351551",
+    "imdb": "nm1618147"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
