@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_lennix",
+  "name": "Harry Lennix",
+  "external_ids": {
+    "wikidata": "Q608709",
+    "imdb": "nm0502015"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

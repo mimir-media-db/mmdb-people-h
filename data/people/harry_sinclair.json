@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_sinclair",
+  "name": "Harry Sinclair",
+  "external_ids": {
+    "wikidata": "Q3330820",
+    "imdb": "nm0801625"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

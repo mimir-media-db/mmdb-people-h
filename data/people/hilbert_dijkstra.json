@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_hilbert_dijkstra",
+  "name": "Hilbert Dijkstra",
+  "external_ids": {
+    "wikidata": "Q131909936",
+    "imdb": "nm0226652"
+  },
+  "last_updated": "2026-08-18"
+}

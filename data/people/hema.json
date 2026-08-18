@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hema",
+  "name": "Hema",
+  "external_ids": {
+    "wikidata": "Q5710886",
+    "imdb": "nm1332553"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

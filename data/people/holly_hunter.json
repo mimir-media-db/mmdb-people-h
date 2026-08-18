@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_holly_hunter",
+  "name": "Holly Hunter",
+  "external_ids": {
+    "wikidata": "Q105660",
+    "imdb": "nm0000456"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

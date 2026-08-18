@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_baer",
+  "name": "Harry Baer",
+  "external_ids": {
+    "wikidata": "Q91742",
+    "imdb": "nm0006781"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

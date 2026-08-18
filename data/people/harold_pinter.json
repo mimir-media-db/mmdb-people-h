@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harold_pinter",
+  "name": "Harold Pinter",
+  "external_ids": {
+    "wikidata": "Q41042",
+    "imdb": "nm0056217"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2008
+}
