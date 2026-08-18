@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_weingartner",
+  "name": "Hans Weingartner",
+  "external_ids": {
+    "wikidata": "Q78717",
+    "imdb": "nm0918326"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

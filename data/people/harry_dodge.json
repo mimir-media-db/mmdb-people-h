@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_dodge",
+  "name": "Harry Dodge",
+  "external_ids": {
+    "wikidata": "Q18150685",
+    "imdb": "nm0230206"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

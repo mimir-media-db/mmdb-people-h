@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_masters",
+  "name": "Helen Masters",
+  "external_ids": {
+    "wikidata": "Q2243360",
+    "imdb": "nm0557681"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

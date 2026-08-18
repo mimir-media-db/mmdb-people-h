@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_howard_stern",
+  "name": "Howard Stern",
+  "external_ids": {
+    "wikidata": "Q348603",
+    "imdb": "nm0001769"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
