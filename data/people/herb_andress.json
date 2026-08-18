@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_herb_andress",
+  "name": "Herb Andress",
+  "external_ids": {
+    "wikidata": "Q86840",
+    "imdb": "nm0028459"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2004
+}

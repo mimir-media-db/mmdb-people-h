@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henrik_list",
+  "name": "Henrik List",
+  "external_ids": {
+    "wikidata": "Q12316403",
+    "imdb": "nm1203348"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

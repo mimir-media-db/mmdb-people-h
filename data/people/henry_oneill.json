@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_oneill",
+  "name": "Henry O'Neill",
+  "external_ids": {
+    "wikidata": "Q461949",
+    "imdb": "nm0642180"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1891,
+  "death_year": 1961
+}

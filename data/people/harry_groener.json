@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_groener",
+  "name": "Harry Groener",
+  "external_ids": {
+    "wikidata": "Q566885",
+    "imdb": "nm0342881"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

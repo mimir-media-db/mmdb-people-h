@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_eden",
+  "name": "Harry Eden",
+  "external_ids": {
+    "wikidata": "Q1381957",
+    "imdb": "nm1002662"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1990
+}

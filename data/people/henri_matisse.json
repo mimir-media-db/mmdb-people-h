@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henri_matisse",
+  "name": "Henri Matisse",
+  "external_ids": {
+    "wikidata": "Q5589",
+    "imdb": "nm2196327"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1869,
+  "death_year": 1954
+}
