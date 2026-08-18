@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hector_marreros",
+  "name": "Héctor Marreros",
+  "external_ids": {
+    "wikidata": "Q123019882",
+    "imdb": "nm13703612"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

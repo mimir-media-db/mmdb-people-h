@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_newell",
+  "name": "Harry Newell",
+  "external_ids": {
+    "wikidata": "Q16199342",
+    "imdb": "nm1258030"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1991
+}

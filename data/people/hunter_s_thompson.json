@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hunter_s_thompson",
+  "name": "Hunter S. Thompson",
+  "external_ids": {
+    "wikidata": "Q219780",
+    "imdb": "nm0860219"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2005
+}
