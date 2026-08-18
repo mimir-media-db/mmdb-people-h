@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_king",
+  "name": "Helen King",
+  "external_ids": {
+    "wikidata": "Q5702613",
+    "imdb": "nm1345171"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

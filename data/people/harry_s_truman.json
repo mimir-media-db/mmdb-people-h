@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_s_truman",
+  "name": "Harry S. Truman",
+  "external_ids": {
+    "wikidata": "Q11613",
+    "imdb": "nm0874288"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1884,
+  "death_year": 1972
+}

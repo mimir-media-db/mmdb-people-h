@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_floter",
+  "name": "Harry Flöter",
+  "external_ids": {
+    "wikidata": "Q101560701",
+    "imdb": "nm0283687"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
