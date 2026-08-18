@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hillary_scott",
+  "name": "Hillary Scott",
+  "external_ids": {
+    "wikidata": "Q232687",
+    "imdb": "nm1741424"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

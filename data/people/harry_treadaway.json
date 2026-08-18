@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_treadaway",
+  "name": "Harry Treadaway",
+  "external_ids": {
+    "wikidata": "Q138073",
+    "imdb": "nm2016685"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

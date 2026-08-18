@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_herbots",
+  "name": "Hans Herbots",
+  "external_ids": {
+    "wikidata": "Q1976500",
+    "imdb": "nm0378681"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_goodman",
+  "name": "Henry Goodman",
+  "external_ids": {
+    "wikidata": "Q3132807",
+    "imdb": "nm0329094"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

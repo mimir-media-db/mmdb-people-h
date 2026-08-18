@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hakim",
+  "name": "Hakim",
+  "external_ids": {
+    "wikidata": "Q3296942",
+    "imdb": "nm2517527"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
