@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harrison_young",
+  "name": "Harrison Young",
+  "external_ids": {
+    "wikidata": "Q509259",
+    "imdb": "nm0949599"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2005
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_halle_berry",
+  "name": "Halle Berry",
+  "external_ids": {
+    "wikidata": "Q1033016",
+    "imdb": "nm0000932"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

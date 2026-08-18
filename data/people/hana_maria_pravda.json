@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hana_maria_pravda",
+  "name": "Hana Maria Pravda",
+  "external_ids": {
+    "wikidata": "Q5646782",
+    "imdb": "nm0695591"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1916,
+  "death_year": 2008
+}

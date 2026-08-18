@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_holt_mccallany",
+  "name": "Holt McCallany",
+  "external_ids": {
+    "wikidata": "Q1368141",
+    "imdb": "nm0564697"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

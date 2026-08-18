@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hayden_christensen",
+  "name": "Hayden Christensen",
+  "external_ids": {
+    "wikidata": "Q192812",
+    "imdb": "nm0159789"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

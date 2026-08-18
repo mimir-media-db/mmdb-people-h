@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_honor_blackman",
+  "name": "Honor Blackman",
+  "external_ids": {
+    "wikidata": "Q232840",
+    "imdb": "nm0000303"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2020
+}

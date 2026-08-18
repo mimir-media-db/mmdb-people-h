@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hilton_mcrae",
+  "name": "Hilton McRae",
+  "external_ids": {
+    "wikidata": "Q3135696",
+    "imdb": "nm0574436"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

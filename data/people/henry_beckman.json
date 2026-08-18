@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_beckman",
+  "name": "Henry Beckman",
+  "external_ids": {
+    "wikidata": "Q254809",
+    "imdb": "nm0065798"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 2008
+}

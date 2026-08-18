@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_shearer",
+  "name": "Harry Shearer",
+  "external_ids": {
+    "wikidata": "Q345325",
+    "imdb": "nm0733427"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

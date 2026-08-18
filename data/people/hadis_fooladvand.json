@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hadis_fooladvand",
+  "name": "Hadis Fooladvand",
+  "external_ids": {
+    "wikidata": "Q3211023",
+    "imdb": "nm1549131"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

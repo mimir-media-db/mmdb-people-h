@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hermione_norris",
+  "name": "Hermione Norris",
+  "external_ids": {
+    "wikidata": "Q2415881",
+    "imdb": "nm0635820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_zeschballot",
+  "name": "Hans Zesch-Ballot",
+  "external_ids": {
+    "wikidata": "Q1583248",
+    "imdb": "nm0955146"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1896,
+  "death_year": 1972
+}

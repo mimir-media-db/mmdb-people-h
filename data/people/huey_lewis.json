@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_huey_lewis",
+  "name": "Huey Lewis",
+  "external_ids": {
+    "wikidata": "Q504458",
+    "imdb": "nm0507271"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}
