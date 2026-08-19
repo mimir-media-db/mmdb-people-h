@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hoai_linh",
+  "name": "Hoài Linh",
+  "external_ids": {
+    "wikidata": "Q25418198",
+    "imdb": "nm5481330"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

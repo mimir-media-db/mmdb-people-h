@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_holland",
+  "name": "Harry Holland",
+  "external_ids": {
+    "wikidata": "Q63348501",
+    "imdb": "nm5220941"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

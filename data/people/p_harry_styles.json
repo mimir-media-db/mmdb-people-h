@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_styles",
+  "name": "Harry Styles",
+  "external_ids": {
+    "wikidata": "Q3626966",
+    "imdb": "nm4089170"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

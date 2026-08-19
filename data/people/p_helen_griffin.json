@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_griffin",
+  "name": "Helen Griffin",
+  "external_ids": {
+    "wikidata": "Q16190509",
+    "imdb": "nm0341211"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957,
+  "death_year": 2018
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_hill",
+  "name": "Harry Hill",
+  "external_ids": {
+    "wikidata": "Q3127834",
+    "imdb": "nm0384314"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
