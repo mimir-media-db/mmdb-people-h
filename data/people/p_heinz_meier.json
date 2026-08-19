@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_heinz_meier",
+  "name": "Heinz Meier",
+  "external_ids": {
+    "wikidata": "Q1600639",
+    "imdb": "nm0576682"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 2013
+}

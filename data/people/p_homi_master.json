@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_homi_master",
+  "name": "Homi Master",
+  "external_ids": {
+    "wikidata": "Q20811010",
+    "imdb": "nm0557630"
+  },
+  "last_updated": "2026-08-19",
+  "death_year": 1948
+}
