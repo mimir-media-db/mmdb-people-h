@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_haley_scott",
+  "name": "Haley Scott",
+  "external_ids": {
+    "wikidata": "Q135912191",
+    "imdb": "nm1823088"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

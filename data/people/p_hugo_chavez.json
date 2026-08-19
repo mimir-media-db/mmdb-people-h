@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hugo_chavez",
+  "name": "Hugo Chávez",
+  "external_ids": {
+    "wikidata": "Q8440",
+    "imdb": "nm1382342"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954,
+  "death_year": 2013
+}

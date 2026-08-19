@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_holly_madison",
+  "name": "Holly Madison",
+  "external_ids": {
+    "wikidata": "Q229948",
+    "imdb": "nm0534975"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

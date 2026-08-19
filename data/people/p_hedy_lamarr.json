@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hedy_lamarr",
+  "name": "Hedy Lamarr",
+  "external_ids": {
+    "wikidata": "Q49034",
+    "imdb": "nm0001443"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1914,
+  "death_year": 2000
+}
