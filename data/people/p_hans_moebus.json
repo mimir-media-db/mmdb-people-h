@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_moebus",
+  "name": "Hans Moebus",
+  "external_ids": {
+    "wikidata": "Q1577419",
+    "imdb": "nm0595395"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1902,
+  "death_year": 1976
+}

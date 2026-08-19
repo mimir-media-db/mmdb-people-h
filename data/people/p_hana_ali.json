@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hana_ali",
+  "name": "Hana Ali",
+  "external_ids": {
+    "wikidata": "Q15727320",
+    "imdb": "nm1508483"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
