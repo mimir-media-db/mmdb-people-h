@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_heinz_strunk",
+  "name": "Heinz Strunk",
+  "external_ids": {
+    "wikidata": "Q1601036",
+    "imdb": "nm0835345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

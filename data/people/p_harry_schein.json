@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_schein",
+  "name": "Harry Schein",
+  "external_ids": {
+    "wikidata": "Q1586766",
+    "imdb": "nm0770620"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1924,
+  "death_year": 2006
+}
