@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hannes_sell",
+  "name": "Hannes Sell",
+  "external_ids": {
+    "wikidata": "Q17487725",
+    "imdb": "nm5063151"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

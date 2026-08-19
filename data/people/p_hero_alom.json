@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hero_alom",
+  "name": "Hero Alom",
+  "external_ids": {
+    "wikidata": "Q26923194",
+    "imdb": "nm16642366"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

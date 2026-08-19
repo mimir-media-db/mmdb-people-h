@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_happy_anderson",
+  "name": "Happy Anderson",
+  "external_ids": {
+    "wikidata": "Q24883904",
+    "imdb": "nm2322283"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

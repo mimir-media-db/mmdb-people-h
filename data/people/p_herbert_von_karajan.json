@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_herbert_von_karajan",
+  "name": "Herbert von Karajan",
+  "external_ids": {
+    "wikidata": "Q154895",
+    "imdb": "nm0902507"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1908,
+  "death_year": 1989
+}
