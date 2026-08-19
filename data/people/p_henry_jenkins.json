@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_jenkins",
+  "name": "Henry Jenkins",
+  "external_ids": {
+    "wikidata": "Q433940",
+    "imdb": "nm2302071"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

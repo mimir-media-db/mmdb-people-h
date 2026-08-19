@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_david",
+  "name": "Henry David",
+  "external_ids": {
+    "wikidata": "Q4153569",
+    "imdb": "nm2553463"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
