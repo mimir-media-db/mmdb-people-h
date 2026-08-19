@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hana_kino",
+  "name": "Hana Kino",
+  "external_ids": {
+    "wikidata": "Q11519423",
+    "imdb": "nm0455816"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

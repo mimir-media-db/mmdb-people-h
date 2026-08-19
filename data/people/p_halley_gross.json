@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_halley_gross",
+  "name": "Halley Gross",
+  "external_ids": {
+    "wikidata": "Q1571688",
+    "imdb": "nm1429723"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

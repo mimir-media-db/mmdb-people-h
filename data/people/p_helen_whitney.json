@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_whitney",
+  "name": "Helen Whitney",
+  "external_ids": {
+    "wikidata": "Q5703389",
+    "imdb": "nm0926299"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

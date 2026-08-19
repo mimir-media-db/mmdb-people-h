@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_hugo_armstrong",
+  "name": "Hugo Armstrong",
+  "external_ids": {
+    "wikidata": "Q123274225",
+    "imdb": "nm0035730"
+  },
+  "last_updated": "2026-08-19"
+}

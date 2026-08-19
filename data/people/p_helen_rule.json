@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_rule",
+  "name": "Helen Rule",
+  "external_ids": {
+    "wikidata": "Q5703091",
+    "imdb": "nm1339866"
+  },
+  "last_updated": "2026-08-19"
+}
