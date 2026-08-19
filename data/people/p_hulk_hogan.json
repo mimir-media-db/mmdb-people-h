@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hulk_hogan",
+  "name": "Hulk Hogan",
+  "external_ids": {
+    "wikidata": "Q44176",
+    "imdb": "nm0001356"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953,
+  "death_year": 2025
+}

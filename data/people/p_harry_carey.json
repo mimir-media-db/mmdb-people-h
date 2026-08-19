@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_carey",
+  "name": "Harry Carey",
+  "external_ids": {
+    "wikidata": "Q1344801",
+    "imdb": "nm0002503"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1878,
+  "death_year": 1947
+}
