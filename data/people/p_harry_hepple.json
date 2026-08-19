@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_hepple",
+  "name": "Harry Hepple",
+  "external_ids": {
+    "wikidata": "Q5669651",
+    "imdb": "nm3759810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
