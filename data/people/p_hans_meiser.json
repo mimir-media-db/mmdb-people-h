@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_meiser",
+  "name": "Hans Meiser",
+  "external_ids": {
+    "wikidata": "Q1581309",
+    "imdb": "nm0577048"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946,
+  "death_year": 2023
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_helmut_schmidt",
+  "name": "Helmut Schmidt",
+  "external_ids": {
+    "wikidata": "Q2516",
+    "imdb": "nm0772979"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1918,
+  "death_year": 2015
+}
