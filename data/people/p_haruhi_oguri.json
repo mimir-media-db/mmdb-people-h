@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_haruhi_oguri",
+  "name": "Haruhi Oguri",
+  "external_ids": {
+    "wikidata": "Q11462003",
+    "imdb": "nm4976911"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

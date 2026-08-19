@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harley_cross",
+  "name": "Harley Cross",
+  "external_ids": {
+    "wikidata": "Q5643847",
+    "imdb": "nm0189172"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

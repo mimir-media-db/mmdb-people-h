@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_houston",
+  "name": "Houston",
+  "external_ids": {
+    "wikidata": "Q458694",
+    "imdb": "nm0396794"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

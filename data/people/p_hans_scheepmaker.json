@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_scheepmaker",
+  "name": "Hans Scheepmaker",
+  "external_ids": {
+    "wikidata": "Q2099748",
+    "imdb": "nm0770445"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951,
+  "death_year": 2020
+}

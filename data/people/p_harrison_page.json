@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_harrison_page",
+  "name": "Harrison Page",
+  "external_ids": {
+    "wikidata": "Q345877",
+    "imdb": "nm0656188"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}

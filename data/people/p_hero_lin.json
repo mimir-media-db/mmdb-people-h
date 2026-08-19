@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hero_lin",
+  "name": "Hero Lin",
+  "external_ids": {
+    "wikidata": "Q117854325",
+    "imdb": "nm6558127"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
