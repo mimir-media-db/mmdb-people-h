@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hayley_sales",
+  "name": "Hayley Sales",
+  "external_ids": {
+    "wikidata": "Q4976564",
+    "imdb": "nm1860532"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
