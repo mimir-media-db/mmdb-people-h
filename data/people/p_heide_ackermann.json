@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_heide_ackermann",
+  "name": "Heide Ackermann",
+  "external_ids": {
+    "wikidata": "Q1593885",
+    "imdb": "nm0010027"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}
