@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_heerschop",
+  "name": "Hans Heerschop",
+  "external_ids": {
+    "wikidata": "Q18093089",
+    "imdb": "nm1085568"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_halle_bailey",
+  "name": "Halle Bailey",
+  "external_ids": {
+    "wikidata": "Q65028269",
+    "imdb": "nm1782991"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
