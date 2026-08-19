@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hame",
+  "name": "Hamé",
+  "external_ids": {
+    "wikidata": "Q3126630",
+    "imdb": "nm3703401"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
