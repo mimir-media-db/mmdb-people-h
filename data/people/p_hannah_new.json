@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hannah_new",
+  "name": "Hannah New",
+  "external_ids": {
+    "wikidata": "Q15975336",
+    "imdb": "nm4026222"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

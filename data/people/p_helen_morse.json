@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_morse",
+  "name": "Helen Morse",
+  "external_ids": {
+    "wikidata": "Q1610584",
+    "imdb": "nm0607609"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}
