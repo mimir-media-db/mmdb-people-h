@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hu_bing",
+  "name": "Hu Bing",
+  "external_ids": {
+    "wikidata": "Q8970713",
+    "imdb": "nm1878739"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

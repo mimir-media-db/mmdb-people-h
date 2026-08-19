@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henri_picard",
+  "name": "Henri Picard",
+  "external_ids": {
+    "wikidata": "Q41154255",
+    "imdb": "nm2338836"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2001
+}
