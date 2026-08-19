@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_herman_finkers",
+  "name": "Herman Finkers",
+  "external_ids": {
+    "wikidata": "Q1397873",
+    "imdb": "nm0277932"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}
