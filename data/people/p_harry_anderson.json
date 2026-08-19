@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_anderson",
+  "name": "Harry Anderson",
+  "external_ids": {
+    "wikidata": "Q1395573",
+    "imdb": "nm0026789"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952,
+  "death_year": 2018
+}
