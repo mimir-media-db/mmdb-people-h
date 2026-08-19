@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_helen_george",
+  "name": "Helen George",
+  "external_ids": {
+    "wikidata": "Q5702337",
+    "imdb": "nm2932174"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

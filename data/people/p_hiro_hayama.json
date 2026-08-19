@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hiro_hayama",
+  "name": "Hiro Hayama",
+  "external_ids": {
+    "wikidata": "Q5966000",
+    "imdb": "nm1130140"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
