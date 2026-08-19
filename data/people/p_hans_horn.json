@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_horn",
+  "name": "Hans Horn",
+  "external_ids": {
+    "wikidata": "Q14407634",
+    "imdb": "nm0394841"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

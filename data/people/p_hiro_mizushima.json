@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hiro_mizushima",
+  "name": "Hiro Mizushima",
+  "external_ids": {
+    "wikidata": "Q517322",
+    "imdb": "nm2281916"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
