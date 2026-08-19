@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hana_magimel",
+  "name": "Hana Magimel",
+  "external_ids": {
+    "wikidata": "Q110454183",
+    "imdb": "nm12721530"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
