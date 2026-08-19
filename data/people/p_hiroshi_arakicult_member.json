@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hiroshi_arakicult_member",
+  "name": "Hiroshi Araki(cult member)",
+  "external_ids": {
+    "wikidata": "Q11618712",
+    "imdb": "nm2315588"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
