@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hava_ortman",
+  "name": "Hava Ortman",
+  "external_ids": {
+    "wikidata": "Q6622780",
+    "imdb": "nm0651304"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}
