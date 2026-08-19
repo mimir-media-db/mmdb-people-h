@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_christian_post",
+  "name": "Hans Christian Post",
+  "external_ids": {
+    "wikidata": "Q28865950",
+    "imdb": "nm7755156"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
