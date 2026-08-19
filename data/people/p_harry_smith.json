@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_smith",
+  "name": "Harry Smith",
+  "external_ids": {
+    "wikidata": "Q70692435",
+    "imdb": "nm5303598"
+  },
+  "last_updated": "2026-08-19"
+}
