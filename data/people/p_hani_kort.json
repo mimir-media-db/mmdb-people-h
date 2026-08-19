@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_hani_kort",
+  "name": "Hani Kort",
+  "external_ids": {
+    "wikidata": "Q100488639",
+    "imdb": "nm3190526"
+  },
+  "last_updated": "2026-08-19"
+}
