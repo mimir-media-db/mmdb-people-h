@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_suter",
+  "name": "Hans Suter",
+  "external_ids": {
+    "wikidata": "Q1582712",
+    "imdb": "nm2854780"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940
+}
