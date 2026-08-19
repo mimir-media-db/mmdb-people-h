@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_henschel",
+  "name": "Hans Henschel",
+  "external_ids": {
+    "wikidata": "Q95220461",
+    "imdb": "nm5729885"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
