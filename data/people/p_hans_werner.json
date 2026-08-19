@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_werner",
+  "name": "Hans Werner",
+  "external_ids": {
+    "wikidata": "Q18669819",
+    "imdb": "nm0921404"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}
