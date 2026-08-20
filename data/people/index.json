@@ -1084,6 +1084,12 @@
     "path": "data/people/p_hajime_hashimoto.json"
   },
   {
+    "id": "p_hajime_ibuki",
+    "name": "Hajime Ibuki",
+    "birth_year": 1994,
+    "path": "data/people/p_hajime_ibuki.json"
+  },
+  {
     "id": "p_hajime_inoue",
     "name": "Hajime Inoue",
     "birth_year": 1961,
@@ -4099,6 +4105,11 @@
     "path": "data/people/p_hank_hehmsoth.json"
   },
   {
+    "id": "p_hank_hugues",
+    "name": "Hank Hugues",
+    "path": "data/people/p_hank_hugues.json"
+  },
+  {
     "id": "p_hank_levine",
     "name": "Hank Levine",
     "birth_year": 1965,
@@ -4418,6 +4429,12 @@
     "path": "data/people/p_hanna_ladoul.json"
   },
   {
+    "id": "p_hanna_leivonniemi",
+    "name": "Hanna Leivonniemi",
+    "birth_year": 1972,
+    "path": "data/people/p_hanna_leivonniemi.json"
+  },
+  {
     "id": "p_hanna_levchenko",
     "name": "Hanna Levchenko",
     "birth_year": 1963,
@@ -4542,6 +4559,11 @@
     "name": "Hanna Stankówna",
     "birth_year": 1938,
     "path": "data/people/p_hanna_stankowna.json"
+  },
+  {
+    "id": "p_hanna_sukhetska",
+    "name": "Hanna Sukhetska",
+    "path": "data/people/p_hanna_sukhetska.json"
   },
   {
     "id": "p_hanna_turnau",
@@ -5221,6 +5243,12 @@
     "id": "p_hanneke_van_der_paardt",
     "name": "Hanneke van der Paardt",
     "path": "data/people/p_hanneke_van_der_paardt.json"
+  },
+  {
+    "id": "p_hannele_lampela",
+    "name": "Hannele Lampela",
+    "birth_year": 1981,
+    "path": "data/people/p_hannele_lampela.json"
   },
   {
     "id": "p_hannele_lauri",
@@ -9330,6 +9358,11 @@
     "path": "data/people/p_haruka_kudo.json"
   },
   {
+    "id": "p_haruka_okita",
+    "name": "Haruka Ōkita",
+    "path": "data/people/p_haruka_okita.json"
+  },
+  {
     "id": "p_haruka_shimazaki",
     "name": "Haruka Shimazaki",
     "birth_year": 1994,
@@ -10069,6 +10102,12 @@
     "name": "Hassan TavakkolNia",
     "birth_year": 1961,
     "path": "data/people/p_hassan_tavakkolnia.json"
+  },
+  {
+    "id": "p_hassan_varasteh",
+    "name": "Hassan Varasteh",
+    "birth_year": 1969,
+    "path": "data/people/p_hassan_varasteh.json"
   },
   {
     "id": "p_hassan_waqas_rana",
@@ -16133,6 +16172,12 @@
     "path": "data/people/p_henrik_munck.json"
   },
   {
+    "id": "p_henrik_nagy",
+    "name": "Henrik Nagy",
+    "birth_year": 1977,
+    "path": "data/people/p_henrik_nagy.json"
+  },
+  {
     "id": "p_henrik_noel_olesen",
     "name": "Henrik Noél Olesen",
     "birth_year": 1968,
@@ -18351,6 +18396,12 @@
     "name": "Hervé Le Treut",
     "birth_year": 1956,
     "path": "data/people/p_herve_le_treut.json"
+  },
+  {
+    "id": "p_herve_marly",
+    "name": "Hervé Marly",
+    "birth_year": 1952,
+    "path": "data/people/p_herve_marly.json"
   },
   {
     "id": "p_herve_martindelpierre",
@@ -20913,6 +20964,12 @@
     "path": "data/people/p_hiroshi_saito.json"
   },
   {
+    "id": "p_hiroshi_seko",
+    "name": "Hiroshi Seko",
+    "birth_year": 1980,
+    "path": "data/people/p_hiroshi_seko.json"
+  },
+  {
     "id": "p_hiroshi_shimizu",
     "name": "Hiroshi Shimizu",
     "birth_year": 1963,
@@ -21410,6 +21467,11 @@
     "path": "data/people/p_hispano_duron.json"
   },
   {
+    "id": "p_hispec",
+    "name": "Hi'Spec",
+    "path": "data/people/p_hispec.json"
+  },
+  {
     "id": "p_hitboy",
     "name": "Hit-Boy",
     "birth_year": 1987,
@@ -21854,6 +21916,12 @@
     "name": "Hogir Hirori",
     "birth_year": 1980,
     "path": "data/people/p_hogir_hirori.json"
+  },
+  {
+    "id": "p_hogni_egilsson",
+    "name": "Högni Egilsson",
+    "birth_year": 1985,
+    "path": "data/people/p_hogni_egilsson.json"
   },
   {
     "id": "p_hojat_qasemzadeh_asl",
@@ -23357,6 +23425,11 @@
     "path": "data/people/p_hosei_yamasaki.json"
   },
   {
+    "id": "p_hosein_torabnejad",
+    "name": "Hosein Torabnejad",
+    "path": "data/people/p_hosein_torabnejad.json"
+  },
+  {
     "id": "p_hoshim_arslonov",
     "name": "Hoshim Arslonov",
     "birth_year": 1956,
@@ -24448,6 +24521,11 @@
     "id": "p_hrvoje_pervan",
     "name": "Hrvoje Pervan",
     "path": "data/people/p_hrvoje_pervan.json"
+  },
+  {
+    "id": "p_hrvoje_prskalo",
+    "name": "Hrvoje Prskalo",
+    "path": "data/people/p_hrvoje_prskalo.json"
   },
   {
     "id": "p_hryhorii_baklanov",
