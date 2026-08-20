@@ -284,6 +284,11 @@
     "path": "data/people/p_haaz_sleiman.json"
   },
   {
+    "id": "p_habacuc_antonio_de_rosario",
+    "name": "Habacuc Antonio De Rosario",
+    "path": "data/people/p_habacuc_antonio_de_rosario.json"
+  },
+  {
     "id": "p_habda_malacon",
     "name": "Habda Malacón",
     "path": "data/people/p_habda_malacon.json"
@@ -2750,6 +2755,11 @@
     "path": "data/people/p_hamzah_shopi.json"
   },
   {
+    "id": "p_hamzeh_salehi",
+    "name": "Hamzeh Salehi",
+    "path": "data/people/p_hamzeh_salehi.json"
+  },
+  {
     "id": "p_han_bobae",
     "name": "Han Bo-bae",
     "birth_year": 1994,
@@ -2824,6 +2834,12 @@
     "name": "Han Eun-jung",
     "birth_year": 1980,
     "path": "data/people/p_han_eunjung.json"
+  },
+  {
+    "id": "p_han_gagas",
+    "name": "Han Gagas",
+    "birth_year": 1977,
+    "path": "data/people/p_han_gagas.json"
   },
   {
     "id": "p_han_gahee",
@@ -5459,6 +5475,11 @@
     "path": "data/people/p_hanno_olderdissen.json"
   },
   {
+    "id": "p_hanno_pinter",
+    "name": "Hanno Pinter",
+    "path": "data/people/p_hanno_pinter.json"
+  },
+  {
     "id": "p_hanno_poschl",
     "name": "Hanno Pöschl",
     "birth_year": 1949,
@@ -6649,6 +6670,12 @@
     "name": "Hans-Jörg Hofer",
     "birth_year": 1982,
     "path": "data/people/p_hansjorg_hofer.json"
+  },
+  {
+    "id": "p_hansjorg_kapp",
+    "name": "Hans-Jörg Kapp",
+    "birth_year": 1964,
+    "path": "data/people/p_hansjorg_kapp.json"
   },
   {
     "id": "p_hansjorg_messner",
@@ -12215,6 +12242,11 @@
     "path": "data/people/p_heike_ronniger.json"
   },
   {
+    "id": "p_heike_rubbert",
+    "name": "Heike Rübbert",
+    "path": "data/people/p_heike_rubbert.json"
+  },
+  {
     "id": "p_heike_schober",
     "name": "Heike Schober",
     "birth_year": 1970,
@@ -13805,6 +13837,12 @@
     "name": "Hélène de Saint-Père",
     "birth_year": 1960,
     "path": "data/people/p_helene_de_saintpere.json"
+  },
+  {
+    "id": "p_helene_devynck",
+    "name": "Hélène Devynck",
+    "birth_year": 1966,
+    "path": "data/people/p_helene_devynck.json"
   },
   {
     "id": "p_helene_duc",
@@ -24197,6 +24235,12 @@
     "path": "data/people/p_hrvoje_hribar.json"
   },
   {
+    "id": "p_hrvoje_niksic",
+    "name": "Hrvoje Nikšić",
+    "birth_year": 1975,
+    "path": "data/people/p_hrvoje_niksic.json"
+  },
+  {
     "id": "p_hrvoje_pervan",
     "name": "Hrvoje Pervan",
     "path": "data/people/p_hrvoje_pervan.json"
@@ -24498,6 +24542,12 @@
     "name": "Huang Di-yang",
     "birth_year": 1986,
     "path": "data/people/p_huang_diyang.json"
+  },
+  {
+    "id": "p_huang_hai",
+    "name": "Huang Hai",
+    "birth_year": 1942,
+    "path": "data/people/p_huang_hai.json"
   },
   {
     "id": "p_huang_haibo",
@@ -26541,6 +26591,11 @@
     "id": "p_hussain_dalal",
     "name": "Hussain Dalal",
     "path": "data/people/p_hussain_dalal.json"
+  },
+  {
+    "id": "p_hussain_haidry",
+    "name": "Hussain Haidry",
+    "path": "data/people/p_hussain_haidry.json"
   },
   {
     "id": "p_hussain_kuwajerwala",
