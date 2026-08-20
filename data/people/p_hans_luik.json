@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_luik",
+  "name": "Hans Luik",
+  "external_ids": {
+    "wikidata": "Q12363371",
+    "imdb": "nm1869629"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2017
+}
