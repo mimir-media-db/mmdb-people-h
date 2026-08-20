@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_herman_wouk",
+  "name": "Herman Wouk",
+  "external_ids": {
+    "wikidata": "Q49072",
+    "imdb": "nm0941883"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1915,
+  "death_year": 2019
+}
