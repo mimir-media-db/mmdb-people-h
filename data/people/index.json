@@ -342,6 +342,12 @@
     "path": "data/people/p_habib_shahzad.json"
   },
   {
+    "id": "p_habib_shehadeh_hanna",
+    "name": "Habib Shehadeh Hanna",
+    "birth_year": 1974,
+    "path": "data/people/p_habib_shehadeh_hanna.json"
+  },
+  {
     "id": "p_habib_wahid",
     "name": "Habib Wahid",
     "birth_year": 1979,
@@ -2146,6 +2152,12 @@
     "path": "data/people/p_haluk_can_dizdaroglu.json"
   },
   {
+    "id": "p_haluk_levent",
+    "name": "Haluk Levent",
+    "birth_year": 1968,
+    "path": "data/people/p_haluk_levent.json"
+  },
+  {
     "id": "p_haluk_piyes",
     "name": "Haluk Piyes",
     "birth_year": 1975,
@@ -3656,6 +3668,12 @@
     "path": "data/people/p_hana_vrbova.json"
   },
   {
+    "id": "p_hana_wlodarczykova",
+    "name": "Hana Wlodarczyková",
+    "birth_year": 1969,
+    "path": "data/people/p_hana_wlodarczykova.json"
+  },
+  {
     "id": "p_hana_zagorova",
     "name": "Hana Zagorová",
     "birth_year": 1946,
@@ -3737,6 +3755,12 @@
     "name": "Hanania Baer",
     "birth_year": 1943,
     "path": "data/people/p_hanania_baer.json"
+  },
+  {
+    "id": "p_hanaregumi",
+    "name": "Hanaregumi",
+    "birth_year": 1974,
+    "path": "data/people/p_hanaregumi.json"
   },
   {
     "id": "p_handan_ipekci",
@@ -3931,6 +3955,12 @@
     "id": "p_hanis_bagashov",
     "name": "Hanis Bagashov",
     "path": "data/people/p_hanis_bagashov.json"
+  },
+  {
+    "id": "p_haniya_aslam",
+    "name": "Haniya Aslam",
+    "birth_year": 1978,
+    "path": "data/people/p_haniya_aslam.json"
   },
   {
     "id": "p_hanjun_park",
@@ -6319,6 +6349,11 @@
     "path": "data/people/p_hans_w_geiendorfer.json"
   },
   {
+    "id": "p_hans_wagner",
+    "name": "Hans Wagner",
+    "path": "data/people/p_hans_wagner.json"
+  },
+  {
     "id": "p_hans_weingartner",
     "name": "Hans Weingartner",
     "birth_year": 1977,
@@ -7790,6 +7825,12 @@
     "path": "data/people/p_harold_lee_tichenor.json"
   },
   {
+    "id": "p_harold_lopez_nussa",
+    "name": "Harold Lopez Nussa",
+    "birth_year": 1983,
+    "path": "data/people/p_harold_lopez_nussa.json"
+  },
+  {
     "id": "p_harold_manning",
     "name": "Harold Manning",
     "birth_year": 1968,
@@ -8743,6 +8784,12 @@
     "name": "Harry Sachdeva",
     "birth_year": 1977,
     "path": "data/people/p_harry_sachdeva.json"
+  },
+  {
+    "id": "p_harry_salmenniemi",
+    "name": "Harry Salmenniemi",
+    "birth_year": 1982,
+    "path": "data/people/p_harry_salmenniemi.json"
   },
   {
     "id": "p_harry_schein",
@@ -14789,6 +14836,12 @@
     "path": "data/people/p_hendrik_holzemann.json"
   },
   {
+    "id": "p_hendrik_kaljujarv",
+    "name": "Hendrik Kaljujärv",
+    "birth_year": 1983,
+    "path": "data/people/p_hendrik_kaljujarv.json"
+  },
+  {
     "id": "p_hendrik_kraft",
     "name": "Hendrik Kraft",
     "birth_year": 1980,
@@ -15196,6 +15249,12 @@
     "name": "Henri Guybet",
     "birth_year": 1936,
     "path": "data/people/p_henri_guybet.json"
+  },
+  {
+    "id": "p_henri_helman",
+    "name": "Henri Helman",
+    "birth_year": 1946,
+    "path": "data/people/p_henri_helman.json"
   },
   {
     "id": "p_henri_kapulainen",
@@ -15873,6 +15932,12 @@
     "id": "p_henrik_skjerve",
     "name": "Henrik Skjerve",
     "path": "data/people/p_henrik_skjerve.json"
+  },
+  {
+    "id": "p_henrik_skram",
+    "name": "Henrik Skram",
+    "birth_year": 1972,
+    "path": "data/people/p_henrik_skram.json"
   },
   {
     "id": "p_henrik_stahl",
@@ -23590,6 +23655,12 @@
     "path": "data/people/p_hoyt_yeatman.json"
   },
   {
+    "id": "p_hozan_dedo",
+    "name": "Hozan Dedo",
+    "birth_year": 1949,
+    "path": "data/people/p_hozan_dedo.json"
+  },
+  {
     "id": "p_hoze_melendez",
     "name": "Hoze Meléndez",
     "birth_year": 1988,
@@ -23817,6 +23888,11 @@
     "name": "Hrvoje Barišić",
     "birth_year": 1970,
     "path": "data/people/p_hrvoje_barisic.json"
+  },
+  {
+    "id": "p_hrvoje_crnic_boxer",
+    "name": "Hrvoje Crnic Boxer",
+    "path": "data/people/p_hrvoje_crnic_boxer.json"
   },
   {
     "id": "p_hrvoje_hitrec",
@@ -24514,6 +24590,12 @@
     "path": "data/people/p_hubert_mikowski.json"
   },
   {
+    "id": "p_hubert_mingarelli",
+    "name": "Hubert Mingarelli",
+    "birth_year": 1956,
+    "path": "data/people/p_hubert_mingarelli.json"
+  },
+  {
     "id": "p_hubert_mulzer",
     "name": "Hubert Mulzer",
     "birth_year": 1943,
@@ -24895,6 +24977,12 @@
     "name": "Hugh Wilson",
     "birth_year": 1943,
     "path": "data/people/p_hugh_wilson.json"
+  },
+  {
+    "id": "p_hugi_gudmundsson",
+    "name": "Hugi Gudmundsson",
+    "birth_year": 1977,
+    "path": "data/people/p_hugi_gudmundsson.json"
   },
   {
     "id": "p_hugo",
