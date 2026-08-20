@@ -41,6 +41,12 @@
     "path": "data/people/p_h_nelson_tracey.json"
   },
   {
+    "id": "p_h_p_lovecraft",
+    "name": "H. P. Lovecraft",
+    "birth_year": 1890,
+    "path": "data/people/p_h_p_lovecraft.json"
+  },
+  {
     "id": "p_h_paul_moon",
     "name": "H. Paul Moon",
     "path": "data/people/p_h_paul_moon.json"
@@ -3113,6 +3119,11 @@
     "path": "data/people/p_han_yewon.json"
   },
   {
+    "id": "p_han_yong",
+    "name": "Han Yong",
+    "path": "data/people/p_han_yong.json"
+  },
+  {
     "id": "p_han_yuqin",
     "name": "Han Yuqin",
     "birth_year": 1982,
@@ -5080,6 +5091,12 @@
     "path": "data/people/p_hannes_or_halldorsson.json"
   },
   {
+    "id": "p_hannes_raffaseder",
+    "name": "Hannes Raffaseder",
+    "birth_year": 1970,
+    "path": "data/people/p_hannes_raffaseder.json"
+  },
+  {
     "id": "p_hannes_rall",
     "name": "Hannes Rall",
     "path": "data/people/p_hannes_rall.json"
@@ -5412,6 +5429,12 @@
     "path": "data/people/p_hans_canosa.json"
   },
   {
+    "id": "p_hans_christian_andersen",
+    "name": "Hans Christian Andersen",
+    "birth_year": 1805,
+    "path": "data/people/p_hans_christian_andersen.json"
+  },
+  {
     "id": "p_hans_christian_kock",
     "name": "Hans Christian Kock",
     "birth_year": 1973,
@@ -5541,6 +5564,12 @@
     "name": "Hans Haldimann",
     "birth_year": 1952,
     "path": "data/people/p_hans_haldimann.json"
+  },
+  {
+    "id": "p_hans_hansen",
+    "name": "Hans Hansen",
+    "birth_year": 1917,
+    "path": "data/people/p_hans_hansen.json"
   },
   {
     "id": "p_hans_hardthardtloff",
@@ -5814,6 +5843,12 @@
     "name": "Hans Matheson",
     "birth_year": 1975,
     "path": "data/people/p_hans_matheson.json"
+  },
+  {
+    "id": "p_hans_mathisen",
+    "name": "Hans Mathisen",
+    "birth_year": 1967,
+    "path": "data/people/p_hans_mathisen.json"
   },
   {
     "id": "p_hans_matos_camac",
@@ -7685,6 +7720,12 @@
     "path": "data/people/p_harri_manty.json"
   },
   {
+    "id": "p_harri_nykanen",
+    "name": "Harri Nykänen",
+    "birth_year": 1953,
+    "path": "data/people/p_harri_nykanen.json"
+  },
+  {
     "id": "p_harri_shanahan",
     "name": "Harri Shanahan",
     "path": "data/people/p_harri_shanahan.json"
@@ -8065,6 +8106,12 @@
     "id": "p_harry_danner",
     "name": "Harry Danner",
     "path": "data/people/p_harry_danner.json"
+  },
+  {
+    "id": "p_harry_de_wit",
+    "name": "Harry de Wit",
+    "birth_year": 1952,
+    "path": "data/people/p_harry_de_wit.json"
   },
   {
     "id": "p_harry_dean_stanton",
@@ -13018,6 +13065,12 @@
     "path": "data/people/p_helena_tritek.json"
   },
   {
+    "id": "p_helena_tulve",
+    "name": "Helena Tulve",
+    "birth_year": 1972,
+    "path": "data/people/p_helena_tulve.json"
+  },
+  {
     "id": "p_helena_uldrichova",
     "name": "Helena Uldrichová",
     "birth_year": 1973,
@@ -14543,6 +14596,12 @@
     "path": "data/people/p_henning_carlsen.json"
   },
   {
+    "id": "p_henning_christiansen",
+    "name": "Henning Christiansen",
+    "birth_year": 1932,
+    "path": "data/people/p_henning_christiansen.json"
+  },
+  {
     "id": "p_henning_drechsler",
     "name": "Henning Drechsler",
     "birth_year": 1973,
@@ -14911,6 +14970,12 @@
     "path": "data/people/p_henriette_nagel.json"
   },
   {
+    "id": "p_henriette_piper",
+    "name": "Henriette Piper",
+    "birth_year": 1950,
+    "path": "data/people/p_henriette_piper.json"
+  },
+  {
     "id": "p_henriette_richterrohl",
     "name": "Henriette Richter-Röhl",
     "birth_year": 1982,
@@ -15030,6 +15095,12 @@
     "name": "Henrik Elvestad",
     "birth_year": 1973,
     "path": "data/people/p_henrik_elvestad.json"
+  },
+  {
+    "id": "p_henrik_frederiksen",
+    "name": "Henrik Frederiksen",
+    "birth_year": 1964,
+    "path": "data/people/p_henrik_frederiksen.json"
   },
   {
     "id": "p_henrik_georgsson",
@@ -15705,6 +15776,12 @@
     "name": "Henry Gibson",
     "birth_year": 1935,
     "path": "data/people/p_henry_gibson.json"
+  },
+  {
+    "id": "p_henry_gilroy",
+    "name": "Henry Gilroy",
+    "birth_year": 1976,
+    "path": "data/people/p_henry_gilroy.json"
   },
   {
     "id": "p_henry_golding",
@@ -18013,6 +18090,12 @@
     "name": "Hikari Takara",
     "birth_year": 1996,
     "path": "data/people/p_hikari_takara.json"
+  },
+  {
+    "id": "p_hikaru_hayashi",
+    "name": "Hikaru Hayashi",
+    "birth_year": 1931,
+    "path": "data/people/p_hikaru_hayashi.json"
   },
   {
     "id": "p_hikaru_horii",
@@ -21748,6 +21831,12 @@
     "path": "data/people/p_horacio_salgan.json"
   },
   {
+    "id": "p_horacio_salinas",
+    "name": "Horacio Salinas",
+    "birth_year": 1951,
+    "path": "data/people/p_horacio_salinas.json"
+  },
+  {
     "id": "p_horacio_valcarcel",
     "name": "Horacio Valcárcel",
     "birth_year": 1931,
@@ -22553,6 +22642,12 @@
     "id": "p_howard_j_ford",
     "name": "Howard J. Ford",
     "path": "data/people/p_howard_j_ford.json"
+  },
+  {
+    "id": "p_howard_kaylan",
+    "name": "Howard Kaylan",
+    "birth_year": 1947,
+    "path": "data/people/p_howard_kaylan.json"
   },
   {
     "id": "p_howard_kazanjian",
@@ -24573,6 +24668,12 @@
     "path": "data/people/p_hugues_lanneau.json"
   },
   {
+    "id": "p_hugues_le_bars",
+    "name": "Hugues Le Bars",
+    "birth_year": 1950,
+    "path": "data/people/p_hugues_le_bars.json"
+  },
+  {
     "id": "p_hugues_le_paige",
     "name": "Hugues Le Paige",
     "birth_year": 1946,
@@ -25455,6 +25556,11 @@
     "name": "Hwang Jeong-min",
     "birth_year": 1969,
     "path": "data/people/p_hwang_jeongmin.json"
+  },
+  {
+    "id": "p_hwang_joyun",
+    "name": "Hwang Jo-yun",
+    "path": "data/people/p_hwang_joyun.json"
   },
   {
     "id": "p_hwang_jungeum",
