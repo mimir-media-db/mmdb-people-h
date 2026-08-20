@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_gunnarsson",
+  "name": "Hans Gunnarsson",
+  "external_ids": {
+    "wikidata": "Q3783143",
+    "imdb": "nm1076710"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

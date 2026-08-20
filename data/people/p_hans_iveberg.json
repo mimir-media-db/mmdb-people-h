@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_iveberg",
+  "name": "Hans Iveberg",
+  "external_ids": {
+    "wikidata": "Q5825340",
+    "imdb": "nm0412220"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1941
+}
