@@ -3946,6 +3946,12 @@
     "path": "data/people/p_hania_amar.json"
   },
   {
+    "id": "p_hania_rani",
+    "name": "Hania Rani",
+    "birth_year": 1990,
+    "path": "data/people/p_hania_rani.json"
+  },
+  {
     "id": "p_hanibal_luna",
     "name": "Hanibal Luna",
     "path": "data/people/p_hanibal_luna.json"
@@ -5778,6 +5784,12 @@
     "name": "Hans Dulfer",
     "birth_year": 1940,
     "path": "data/people/p_hans_dulfer.json"
+  },
+  {
+    "id": "p_hans_ek",
+    "name": "Hans Ek",
+    "birth_year": 1963,
+    "path": "data/people/p_hans_ek.json"
   },
   {
     "id": "p_hans_fabian_wullenweber",
@@ -11336,6 +11348,12 @@
     "path": "data/people/p_hector.json"
   },
   {
+    "id": "p_hector_abad_faciolince",
+    "name": "Héctor Abad Faciolince",
+    "birth_year": 1958,
+    "path": "data/people/p_hector_abad_faciolince.json"
+  },
+  {
     "id": "p_hector_alterio",
     "name": "Héctor Alterio",
     "birth_year": 1929,
@@ -12203,6 +12221,11 @@
     "path": "data/people/p_heike_schober.json"
   },
   {
+    "id": "p_heike_sperling",
+    "name": "Heike Sperling",
+    "path": "data/people/p_heike_sperling.json"
+  },
+  {
     "id": "p_heike_thiemschneider",
     "name": "Heike Thiem-Schneider",
     "birth_year": 1960,
@@ -12314,6 +12337,12 @@
     "name": "Heikki Sankari",
     "birth_year": 1968,
     "path": "data/people/p_heikki_sankari.json"
+  },
+  {
+    "id": "p_heikki_sarmanto",
+    "name": "Heikki Sarmanto",
+    "birth_year": 1939,
+    "path": "data/people/p_heikki_sarmanto.json"
   },
   {
     "id": "p_heikki_silvennoinen",
@@ -20979,6 +21008,12 @@
     "path": "data/people/p_hisaaki_takeuchi.json"
   },
   {
+    "id": "p_hisako_kurosawa",
+    "name": "Hisako Kurosawa",
+    "birth_year": 1968,
+    "path": "data/people/p_hisako_kurosawa.json"
+  },
+  {
     "id": "p_hisako_manda",
     "name": "Hisako Manda",
     "birth_year": 1958,
@@ -22616,6 +22651,12 @@
     "path": "data/people/p_honza_dedek.json"
   },
   {
+    "id": "p_honza_vedral",
+    "name": "Honza Vedral",
+    "birth_year": 1981,
+    "path": "data/people/p_honza_vedral.json"
+  },
+  {
     "id": "p_honzik_janda",
     "name": "Honzík Janda",
     "path": "data/people/p_honzik_janda.json"
@@ -23048,6 +23089,12 @@
     "id": "p_hortense_gelinet",
     "name": "Hortense Gelinet",
     "path": "data/people/p_hortense_gelinet.json"
+  },
+  {
+    "id": "p_hortense_ullrich",
+    "name": "Hortense Ullrich",
+    "birth_year": 1956,
+    "path": "data/people/p_hortense_ullrich.json"
   },
   {
     "id": "p_horton_foote",
@@ -24889,6 +24936,12 @@
     "name": "Hubert Selby Jr.",
     "birth_year": 1928,
     "path": "data/people/p_hubert_selby_jr.json"
+  },
+  {
+    "id": "p_hubert_tanguaylabrosse",
+    "name": "Hubert Tanguay-Labrosse",
+    "birth_year": 1988,
+    "path": "data/people/p_hubert_tanguaylabrosse.json"
   },
   {
     "id": "p_hubert_toint",
