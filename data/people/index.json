@@ -731,6 +731,11 @@
     "path": "data/people/p_hagar_benasher.json"
   },
   {
+    "id": "p_hage_hein",
+    "name": "Hage Hein",
+    "path": "data/people/p_hage_hein.json"
+  },
+  {
     "id": "p_hagen_keller",
     "name": "Hagen Keller",
     "birth_year": 1968,
@@ -2045,6 +2050,12 @@
     "name": "Halley Gross",
     "birth_year": 1985,
     "path": "data/people/p_halley_gross.json"
+  },
+  {
+    "id": "p_hallgrimur_helgason",
+    "name": "Hallgrímur Helgason",
+    "birth_year": 1959,
+    "path": "data/people/p_hallgrimur_helgason.json"
   },
   {
     "id": "p_halli_cauthery",
@@ -3826,6 +3837,11 @@
     "path": "data/people/p_hani.json"
   },
   {
+    "id": "p_hani_asfari",
+    "name": "Hani Asfari",
+    "path": "data/people/p_hani_asfari.json"
+  },
+  {
     "id": "p_hani_fawzi",
     "name": "Hani Fawzi",
     "path": "data/people/p_hani_fawzi.json"
@@ -4898,6 +4914,12 @@
     "name": "Hannah van Lunteren",
     "birth_year": 1979,
     "path": "data/people/p_hannah_van_lunteren.json"
+  },
+  {
+    "id": "p_hannah_von_hubbenet",
+    "name": "Hannah von Hübbenet",
+    "birth_year": 1981,
+    "path": "data/people/p_hannah_von_hubbenet.json"
   },
   {
     "id": "p_hannah_waddingham",
@@ -7478,6 +7500,12 @@
     "id": "p_harjant_gill",
     "name": "Harjant Gill",
     "path": "data/people/p_harjant_gill.json"
+  },
+  {
+    "id": "p_harjinder_singh_jinda",
+    "name": "Harjinder Singh Jinda",
+    "birth_year": 1960,
+    "path": "data/people/p_harjinder_singh_jinda.json"
   },
   {
     "id": "p_harjit_harman",
@@ -18308,6 +18336,12 @@
     "path": "data/people/p_hideki_oka.json"
   },
   {
+    "id": "p_hideki_sonoda",
+    "name": "Hideki Sonoda",
+    "birth_year": 1956,
+    "path": "data/people/p_hideki_sonoda.json"
+  },
+  {
     "id": "p_hideki_takeuchi",
     "name": "Hideki Takeuchi",
     "birth_year": 1966,
@@ -21659,6 +21693,12 @@
     "path": "data/people/p_holly_morris.json"
   },
   {
+    "id": "p_holly_near",
+    "name": "Holly Near",
+    "birth_year": 1949,
+    "path": "data/people/p_holly_near.json"
+  },
+  {
     "id": "p_holly_randall",
     "name": "Holly Randall",
     "birth_year": 1978,
@@ -23025,6 +23065,12 @@
     "name": "Houchang Allahyari",
     "birth_year": 1941,
     "path": "data/people/p_houchang_allahyari.json"
+  },
+  {
+    "id": "p_houcine_mahnouch",
+    "name": "Houcine Mahnouch",
+    "birth_year": 1952,
+    "path": "data/people/p_houcine_mahnouch.json"
   },
   {
     "id": "p_houda_benyamina",
