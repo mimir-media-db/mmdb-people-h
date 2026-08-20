@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_h_b_halicki",
+    "name": "H. B. Halicki",
+    "birth_year": 1940,
+    "path": "data/people/p_h_b_halicki.json"
+  },
+  {
     "id": "p_h_d_kumaraswamy",
     "name": "H. D. Kumaraswamy",
     "birth_year": 1959,
@@ -1029,6 +1035,12 @@
     "path": "data/people/p_hajime_kadoi.json"
   },
   {
+    "id": "p_hajime_mizoguchi",
+    "name": "Hajime Mizoguchi",
+    "birth_year": 1960,
+    "path": "data/people/p_hajime_mizoguchi.json"
+  },
+  {
     "id": "p_hajime_ohata",
     "name": "Hajime Ōhata",
     "birth_year": 1979,
@@ -1512,6 +1524,12 @@
     "path": "data/people/p_hal_linden.json"
   },
   {
+    "id": "p_hal_lindes",
+    "name": "Hal Lindes",
+    "birth_year": 1953,
+    "path": "data/people/p_hal_lindes.json"
+  },
+  {
     "id": "p_hal_masonberg",
     "name": "Hal Masonberg",
     "path": "data/people/p_hal_masonberg.json"
@@ -1720,6 +1738,12 @@
     "name": "Half a Mill",
     "birth_year": 1973,
     "path": "data/people/p_half_a_mill.json"
+  },
+  {
+    "id": "p_halfdan_e",
+    "name": "Halfdan E",
+    "birth_year": 1965,
+    "path": "data/people/p_halfdan_e.json"
   },
   {
     "id": "p_halfdan_hussey",
@@ -2535,6 +2559,12 @@
     "name": "Hamsa Nandini",
     "birth_year": 1984,
     "path": "data/people/p_hamsa_nandini.json"
+  },
+  {
+    "id": "p_hamsalekha",
+    "name": "Hamsalekha",
+    "birth_year": 1951,
+    "path": "data/people/p_hamsalekha.json"
   },
   {
     "id": "p_hamsavardhan",
@@ -4120,6 +4150,12 @@
     "path": "data/people/p_hanna_konarowska.json"
   },
   {
+    "id": "p_hanna_krall",
+    "name": "Hanna Krall",
+    "birth_year": 1935,
+    "path": "data/people/p_hanna_krall.json"
+  },
+  {
     "id": "p_hanna_kulle",
     "name": "Hanna Kulle",
     "birth_year": 1978,
@@ -5158,6 +5194,12 @@
     "path": "data/people/p_hanns_christian_muller.json"
   },
   {
+    "id": "p_hanns_marschall",
+    "name": "Hanns Marschall",
+    "birth_year": 1895,
+    "path": "data/people/p_hanns_marschall.json"
+  },
+  {
     "id": "p_hanns_schuschnig",
     "name": "Hanns Schuschnig",
     "birth_year": 1927,
@@ -5209,6 +5251,11 @@
     "name": "Hannu Kivioja",
     "birth_year": 1963,
     "path": "data/people/p_hannu_kivioja.json"
+  },
+  {
+    "id": "p_hannu_korkeamaki",
+    "name": "Hannu Korkeamäki",
+    "path": "data/people/p_hannu_korkeamaki.json"
   },
   {
     "id": "p_hannu_puttonen",
@@ -5850,6 +5897,12 @@
     "name": "Hans Robert Eisenhauer",
     "birth_year": 1945,
     "path": "data/people/p_hans_robert_eisenhauer.json"
+  },
+  {
+    "id": "p_hans_rosenfeldt",
+    "name": "Hans Rosenfeldt",
+    "birth_year": 1964,
+    "path": "data/people/p_hans_rosenfeldt.json"
   },
   {
     "id": "p_hans_rosenthal",
@@ -7518,6 +7571,11 @@
     "path": "data/people/p_harper_leigh_alexander.json"
   },
   {
+    "id": "p_harper_steele",
+    "name": "Harper Steele",
+    "path": "data/people/p_harper_steele.json"
+  },
+  {
     "id": "p_harpert_michielsen",
     "name": "Harpert Michielsen",
     "birth_year": 1970,
@@ -7822,6 +7880,12 @@
     "id": "p_harry_a_davis",
     "name": "Harry A. Davis",
     "path": "data/people/p_harry_a_davis.json"
+  },
+  {
+    "id": "p_harry_alan_towers",
+    "name": "Harry Alan Towers",
+    "birth_year": 1920,
+    "path": "data/people/p_harry_alan_towers.json"
   },
   {
     "id": "p_harry_anderson",
@@ -8201,6 +8265,12 @@
     "name": "Harry Michell",
     "birth_year": 1991,
     "path": "data/people/p_harry_michell.json"
+  },
+  {
+    "id": "p_harry_mulisch",
+    "name": "Harry Mulisch",
+    "birth_year": 1927,
+    "path": "data/people/p_harry_mulisch.json"
   },
   {
     "id": "p_harry_newell",
@@ -9767,6 +9837,12 @@
     "path": "data/people/p_hayato_kawai.json"
   },
   {
+    "id": "p_hayato_matsuo",
+    "name": "Hayato Matsuo",
+    "birth_year": 1965,
+    "path": "data/people/p_hayato_matsuo.json"
+  },
+  {
     "id": "p_hayato_onozuka",
     "name": "Hayato Onozuka",
     "birth_year": 1993,
@@ -10186,6 +10262,11 @@
     "name": "He Yunwei",
     "birth_year": 1981,
     "path": "data/people/p_he_yunwei.json"
+  },
+  {
+    "id": "p_he_zizhuang",
+    "name": "He Zizhuang",
+    "path": "data/people/p_he_zizhuang.json"
   },
   {
     "id": "p_heart_evangelista",
@@ -11393,6 +11474,12 @@
     "path": "data/people/p_heidi_swedberg.json"
   },
   {
+    "id": "p_heidi_thomas",
+    "name": "Heidi Thomas",
+    "birth_year": 1962,
+    "path": "data/people/p_heidi_thomas.json"
+  },
+  {
     "id": "p_heidi_toini",
     "name": "Heidi Toini",
     "path": "data/people/p_heidi_toini.json"
@@ -11414,6 +11501,12 @@
     "name": "Heidrun Gärtner",
     "birth_year": 1965,
     "path": "data/people/p_heidrun_gartner.json"
+  },
+  {
+    "id": "p_heidrun_schleef",
+    "name": "Heidrun Schleef",
+    "birth_year": 1961,
+    "path": "data/people/p_heidrun_schleef.json"
   },
   {
     "id": "p_heidy_forster",
@@ -14549,6 +14642,12 @@
     "path": "data/people/p_henri_poupon.json"
   },
   {
+    "id": "p_henri_seroka",
+    "name": "Henri Seroka",
+    "birth_year": 1949,
+    "path": "data/people/p_henri_seroka.json"
+  },
+  {
     "id": "p_henri_steinmetz",
     "name": "Henri Steinmetz",
     "birth_year": 1999,
@@ -15606,6 +15705,12 @@
     "name": "Henry Kõrvits",
     "birth_year": 1974,
     "path": "data/people/p_henry_korvits.json"
+  },
+  {
+    "id": "p_henry_lai_wanman",
+    "name": "Henry Lai Wan-man",
+    "birth_year": 1960,
+    "path": "data/people/p_henry_lai_wanman.json"
   },
   {
     "id": "p_henry_lau",
@@ -19213,6 +19318,12 @@
     "path": "data/people/p_hiroshi_hamaya.json"
   },
   {
+    "id": "p_hiroshi_hashimoto",
+    "name": "Hiroshi Hashimoto",
+    "birth_year": 1962,
+    "path": "data/people/p_hiroshi_hashimoto.json"
+  },
+  {
     "id": "p_hiroshi_hayakawa",
     "name": "Hiroshi Hayakawa",
     "birth_year": 1943,
@@ -20177,6 +20288,12 @@
     "path": "data/people/p_hoang_hai.json"
   },
   {
+    "id": "p_hoang_luong",
+    "name": "Hoàng Lương",
+    "birth_year": 1959,
+    "path": "data/people/p_hoang_luong.json"
+  },
+  {
     "id": "p_hoang_nghi",
     "name": "Hoàng Nghi",
     "birth_year": 1967,
@@ -20288,6 +20405,12 @@
     "path": "data/people/p_holger_andersson.json"
   },
   {
+    "id": "p_holger_aurel_jung",
+    "name": "Holger Aurel Jung",
+    "birth_year": 1971,
+    "path": "data/people/p_holger_aurel_jung.json"
+  },
+  {
     "id": "p_holger_bech_nielsen",
     "name": "Holger Bech Nielsen",
     "birth_year": 1941,
@@ -20363,6 +20486,12 @@
     "name": "Holger K. Nielsen",
     "birth_year": 1950,
     "path": "data/people/p_holger_k_nielsen.json"
+  },
+  {
+    "id": "p_holger_karsten_schmidt",
+    "name": "Holger Karsten Schmidt",
+    "birth_year": 1965,
+    "path": "data/people/p_holger_karsten_schmidt.json"
   },
   {
     "id": "p_holger_krenz",
@@ -21472,6 +21601,12 @@
     "path": "data/people/p_horacio_salgan.json"
   },
   {
+    "id": "p_horacio_valcarcel",
+    "name": "Horacio Valcárcel",
+    "birth_year": 1931,
+    "path": "data/people/p_horacio_valcarcel.json"
+  },
+  {
     "id": "p_horacio_verbitsky",
     "name": "Horacio Verbitsky",
     "birth_year": 1942,
@@ -22092,6 +22227,12 @@
     "name": "Hovnatan Avédikian",
     "birth_year": 1981,
     "path": "data/people/p_hovnatan_avedikian.json"
+  },
+  {
+    "id": "p_howard_a_rodman",
+    "name": "Howard A. Rodman",
+    "birth_year": 1949,
+    "path": "data/people/p_howard_a_rodman.json"
   },
   {
     "id": "p_howard_ashman",
@@ -22862,6 +23003,11 @@
     "name": "Hu Jhih-Ciang",
     "birth_year": 1997,
     "path": "data/people/p_hu_jhihciang.json"
+  },
+  {
+    "id": "p_hu_jianxin",
+    "name": "Hu Jianxin",
+    "path": "data/people/p_hu_jianxin.json"
   },
   {
     "id": "p_hu_jie",
@@ -24539,6 +24685,12 @@
     "name": "Hümeyra",
     "birth_year": 1947,
     "path": "data/people/p_humeyra.json"
+  },
+  {
+    "id": "p_hummie_mann",
+    "name": "Hummie Mann",
+    "birth_year": 1955,
+    "path": "data/people/p_hummie_mann.json"
   },
   {
     "id": "p_humphrey_bogart",
