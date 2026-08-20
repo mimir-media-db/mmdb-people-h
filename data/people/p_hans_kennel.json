@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_kennel",
+  "name": "Hans Kennel",
+  "external_ids": {
+    "wikidata": "Q970692",
+    "imdb": "nm1715743"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1939,
+  "death_year": 2021
+}
