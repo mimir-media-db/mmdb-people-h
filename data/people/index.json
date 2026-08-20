@@ -2297,6 +2297,12 @@
     "path": "data/people/p_hamed_nejabat.json"
   },
   {
+    "id": "p_hamed_rajabi",
+    "name": "Hamed Rajabi",
+    "birth_year": 1981,
+    "path": "data/people/p_hamed_rajabi.json"
+  },
+  {
     "id": "p_hamed_sabet",
     "name": "Hamed Sabet",
     "birth_year": 1979,
@@ -5066,6 +5072,12 @@
     "path": "data/people/p_hannelore_elsner.json"
   },
   {
+    "id": "p_hannelore_hippe",
+    "name": "Hannelore Hippe",
+    "birth_year": 1950,
+    "path": "data/people/p_hannelore_hippe.json"
+  },
+  {
     "id": "p_hannelore_hoger",
     "name": "Hannelore Hoger",
     "birth_year": 1939,
@@ -5111,6 +5123,12 @@
     "name": "Hannes Baumgartner",
     "birth_year": 1982,
     "path": "data/people/p_hannes_baumgartner.json"
+  },
+  {
+    "id": "p_hannes_burger",
+    "name": "Hannes Burger",
+    "birth_year": 1937,
+    "path": "data/people/p_hannes_burger.json"
   },
   {
     "id": "p_hannes_held",
@@ -6014,6 +6032,11 @@
     "path": "data/people/p_hans_morten_hansen.json"
   },
   {
+    "id": "p_hans_mullens",
+    "name": "Hans Mullens",
+    "path": "data/people/p_hans_mullens.json"
+  },
+  {
     "id": "p_hans_nitschke",
     "name": "Hans Nitschke",
     "birth_year": 1930,
@@ -6094,6 +6117,12 @@
     "name": "Hans Puttnies",
     "birth_year": 1945,
     "path": "data/people/p_hans_puttnies.json"
+  },
+  {
+    "id": "p_hans_rath",
+    "name": "Hans Rath",
+    "birth_year": 1965,
+    "path": "data/people/p_hans_rath.json"
   },
   {
     "id": "p_hans_richner",
@@ -12031,6 +12060,12 @@
     "path": "data/people/p_heikki_kujanpaa.json"
   },
   {
+    "id": "p_heikki_laitinen",
+    "name": "Heikki Laitinen",
+    "birth_year": 1943,
+    "path": "data/people/p_heikki_laitinen.json"
+  },
+  {
     "id": "p_heikki_maattanen",
     "name": "Heikki Määttänen",
     "birth_year": 1949,
@@ -13351,6 +13386,11 @@
     "path": "data/people/p_helena_valkee.json"
   },
   {
+    "id": "p_helena_van_der_meulen",
+    "name": "Helena van der Meulen",
+    "path": "data/people/p_helena_van_der_meulen.json"
+  },
+  {
     "id": "p_helena_vanova",
     "name": "Helena Váňová",
     "birth_year": 1964,
@@ -14238,6 +14278,12 @@
     "name": "Helmut Bakaitis",
     "birth_year": 1944,
     "path": "data/people/p_helmut_bakaitis.json"
+  },
+  {
+    "id": "p_helmut_ballot",
+    "name": "Helmut Ballot",
+    "birth_year": 1917,
+    "path": "data/people/p_helmut_ballot.json"
   },
   {
     "id": "p_helmut_berger",
@@ -15983,6 +16029,12 @@
     "path": "data/people/p_henry_bromell.json"
   },
   {
+    "id": "p_henry_burgos",
+    "name": "Henry Burgos",
+    "birth_year": 1900,
+    "path": "data/people/p_henry_burgos.json"
+  },
+  {
     "id": "p_henry_calcutt",
     "name": "Henry Calcutt",
     "path": "data/people/p_henry_calcutt.json"
@@ -16062,6 +16114,12 @@
     "name": "Henry David",
     "birth_year": 1979,
     "path": "data/people/p_henry_david.json"
+  },
+  {
+    "id": "p_henry_de_vere_stacpoole",
+    "name": "Henry De Vere Stacpoole",
+    "birth_year": 1863,
+    "path": "data/people/p_henry_de_vere_stacpoole.json"
   },
   {
     "id": "p_henry_dike",
@@ -16653,6 +16711,11 @@
     "path": "data/people/p_heo_myeonghaeng.json"
   },
   {
+    "id": "p_heo_seonghye",
+    "name": "Heo Seong-hye",
+    "path": "data/people/p_heo_seonghye.json"
+  },
+  {
     "id": "p_heo_sungtae",
     "name": "Heo Sung-tae",
     "birth_year": 1977,
@@ -16846,6 +16909,12 @@
     "name": "Herbert Köfer",
     "birth_year": 1921,
     "path": "data/people/p_herbert_kofer.json"
+  },
+  {
+    "id": "p_herbert_kretzmer",
+    "name": "Herbert Kretzmer",
+    "birth_year": 1925,
+    "path": "data/people/p_herbert_kretzmer.json"
   },
   {
     "id": "p_herbert_leiser",
@@ -18548,6 +18617,12 @@
     "path": "data/people/p_hikaru_murozumi.json"
   },
   {
+    "id": "p_hikaru_nakamura",
+    "name": "Hikaru Nakamura",
+    "birth_year": 1984,
+    "path": "data/people/p_hikaru_nakamura.json"
+  },
+  {
     "id": "p_hikaru_nishida",
     "name": "Hikaru Nishida",
     "birth_year": 1972,
@@ -18680,6 +18755,12 @@
     "name": "Hilarie Burton",
     "birth_year": 1982,
     "path": "data/people/p_hilarie_burton.json"
+  },
+  {
+    "id": "p_hilarion_alfeyev",
+    "name": "Hilarion (Alfeyev)",
+    "birth_year": 1966,
+    "path": "data/people/p_hilarion_alfeyev.json"
   },
   {
     "id": "p_hilary_bevan_jones",
@@ -24795,6 +24876,12 @@
     "name": "Hugo Chávez",
     "birth_year": 1954,
     "path": "data/people/p_hugo_chavez.json"
+  },
+  {
+    "id": "p_hugo_coya",
+    "name": "Hugo Coya",
+    "birth_year": 1960,
+    "path": "data/people/p_hugo_coya.json"
   },
   {
     "id": "p_hugo_crexell",
