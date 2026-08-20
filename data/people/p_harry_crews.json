@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_crews",
+  "name": "Harry Crews",
+  "external_ids": {
+    "wikidata": "Q1586451",
+    "imdb": "nm0187704"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2012
+}

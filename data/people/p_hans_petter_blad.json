@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_petter_blad",
+  "name": "Hans Petter Blad",
+  "external_ids": {
+    "wikidata": "Q16176323",
+    "imdb": "nm0086004"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
