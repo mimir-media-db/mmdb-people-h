@@ -4224,6 +4224,12 @@
     "path": "data/people/p_hanna_krall.json"
   },
   {
+    "id": "p_hanna_kulenty",
+    "name": "Hanna Kulenty",
+    "birth_year": 1961,
+    "path": "data/people/p_hanna_kulenty.json"
+  },
+  {
     "id": "p_hanna_kulle",
     "name": "Hanna Kulle",
     "birth_year": 1978,
@@ -4404,6 +4410,12 @@
     "id": "p_hanna_wijaya",
     "name": "Hanna Wijaya",
     "path": "data/people/p_hanna_wijaya.json"
+  },
+  {
+    "id": "p_hanna_yablonska",
+    "name": "Hanna Yablonska",
+    "birth_year": 1981,
+    "path": "data/people/p_hanna_yablonska.json"
   },
   {
     "id": "p_hanna_zetterstrom",
@@ -5966,6 +5978,12 @@
     "name": "Hans Peter Korff",
     "birth_year": 1942,
     "path": "data/people/p_hans_peter_korff.json"
+  },
+  {
+    "id": "p_hans_peter_stroer",
+    "name": "Hans Peter Ströer",
+    "birth_year": 1955,
+    "path": "data/people/p_hans_peter_stroer.json"
   },
   {
     "id": "p_hans_petter_blad",
@@ -11598,6 +11616,12 @@
     "path": "data/people/p_heidi_ewing.json"
   },
   {
+    "id": "p_heidi_ferrer",
+    "name": "Heidi Ferrer",
+    "birth_year": 1970,
+    "path": "data/people/p_heidi_ferrer.json"
+  },
+  {
     "id": "p_heidi_fielek",
     "name": "Heidi Fielek",
     "path": "data/people/p_heidi_fielek.json"
@@ -11919,6 +11943,12 @@
     "path": "data/people/p_heikki_hela.json"
   },
   {
+    "id": "p_heikki_huttuhiltunen",
+    "name": "Heikki Huttu-Hiltunen",
+    "birth_year": 1960,
+    "path": "data/people/p_heikki_huttuhiltunen.json"
+  },
+  {
     "id": "p_heikki_kinnunen",
     "name": "Heikki Kinnunen",
     "birth_year": 1946,
@@ -12034,6 +12064,12 @@
     "name": "Heiko Lochmann",
     "birth_year": 1999,
     "path": "data/people/p_heiko_lochmann.json"
+  },
+  {
+    "id": "p_heiko_maile",
+    "name": "Heiko Maile",
+    "birth_year": 1966,
+    "path": "data/people/p_heiko_maile.json"
   },
   {
     "id": "p_heiko_merten",
@@ -12457,6 +12493,12 @@
     "name": "Helen Caldicott",
     "birth_year": 1938,
     "path": "data/people/p_helen_caldicott.json"
+  },
+  {
+    "id": "p_helen_collins",
+    "name": "Helen Collins",
+    "birth_year": 1988,
+    "path": "data/people/p_helen_collins.json"
   },
   {
     "id": "p_helen_cornelius",
@@ -13608,6 +13650,12 @@
     "id": "p_helene_theunissen",
     "name": "Hélène Theunissen",
     "path": "data/people/p_helene_theunissen.json"
+  },
+  {
+    "id": "p_helene_tursten",
+    "name": "Helene Tursten",
+    "birth_year": 1954,
+    "path": "data/people/p_helene_tursten.json"
   },
   {
     "id": "p_helene_udy",
@@ -16975,6 +17023,12 @@
     "name": "Herman Rechberger",
     "birth_year": 1947,
     "path": "data/people/p_herman_rechberger.json"
+  },
+  {
+    "id": "p_herman_rundberg",
+    "name": "Herman Rundberg",
+    "birth_year": 1983,
+    "path": "data/people/p_herman_rundberg.json"
   },
   {
     "id": "p_herman_sikumbang",
@@ -21011,6 +21065,11 @@
     "path": "data/people/p_holger_handtke.json"
   },
   {
+    "id": "p_holger_jackle",
+    "name": "Holger Jäckle",
+    "path": "data/people/p_holger_jackle.json"
+  },
+  {
     "id": "p_holger_jancke",
     "name": "Holger Jancke",
     "birth_year": 1965,
@@ -22985,6 +23044,12 @@
     "path": "data/people/p_howard_klein.json"
   },
   {
+    "id": "p_howard_korder",
+    "name": "Howard Korder",
+    "birth_year": 1957,
+    "path": "data/people/p_howard_korder.json"
+  },
+  {
     "id": "p_howard_l_weiner",
     "name": "Howard L. Weiner",
     "birth_year": 1943,
@@ -24170,6 +24235,12 @@
     "name": "Hubertus Siegert",
     "birth_year": 1959,
     "path": "data/people/p_hubertus_siegert.json"
+  },
+  {
+    "id": "p_hubertyves_rose",
+    "name": "Hubert-Yves Rose",
+    "birth_year": 1944,
+    "path": "data/people/p_hubertyves_rose.json"
   },
   {
     "id": "p_huccha_venkat",
