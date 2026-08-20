@@ -949,6 +949,11 @@
     "path": "data/people/p_hailliote_sumney.json"
   },
   {
+    "id": "p_haily_hall",
+    "name": "Haily Hall",
+    "path": "data/people/p_haily_hall.json"
+  },
+  {
     "id": "p_haim_bouzaglo",
     "name": "Haim Bouzaglo",
     "birth_year": 1952,
@@ -1001,6 +1006,12 @@
     "name": "Haim Zanati",
     "birth_year": 1967,
     "path": "data/people/p_haim_zanati.json"
+  },
+  {
+    "id": "p_hainbach",
+    "name": "Hainbach",
+    "birth_year": 1977,
+    "path": "data/people/p_hainbach.json"
   },
   {
     "id": "p_haipeng_xu",
@@ -16909,6 +16920,11 @@
     "path": "data/people/p_henry_milton_chu.json"
   },
   {
+    "id": "p_henry_mitton",
+    "name": "Henry Mitton",
+    "path": "data/people/p_henry_mitton.json"
+  },
+  {
     "id": "p_henry_mix",
     "name": "Henry Mix",
     "path": "data/people/p_henry_mix.json"
@@ -17144,6 +17160,12 @@
     "name": "Henryk Błażejczyk",
     "birth_year": 1937,
     "path": "data/people/p_henryk_bazejczyk.json"
+  },
+  {
+    "id": "p_henryk_bloch",
+    "name": "Henryk Bloch",
+    "birth_year": 1913,
+    "path": "data/people/p_henryk_bloch.json"
   },
   {
     "id": "p_henryk_broder",
@@ -19436,6 +19458,11 @@
     "name": "Hilary Galanoy",
     "birth_year": 1949,
     "path": "data/people/p_hilary_galanoy.json"
+  },
+  {
+    "id": "p_hilary_helding",
+    "name": "Hilary Helding",
+    "path": "data/people/p_hilary_helding.json"
   },
   {
     "id": "p_hilary_howard",
@@ -25292,6 +25319,11 @@
     "name": "Hubert von Goisern",
     "birth_year": 1952,
     "path": "data/people/p_hubert_von_goisern.json"
+  },
+  {
+    "id": "p_hubert_walkowski",
+    "name": "Hubert Walkowski",
+    "path": "data/people/p_hubert_walkowski.json"
   },
   {
     "id": "p_hubert_woroniecki",
