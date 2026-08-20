@@ -2963,6 +2963,12 @@
     "path": "data/people/p_han_jimin.json"
   },
   {
+    "id": "p_han_jinwon",
+    "name": "Han Jin-won",
+    "birth_year": 1999,
+    "path": "data/people/p_han_jinwon.json"
+  },
+  {
     "id": "p_han_jisang",
     "name": "Han Ji-sang",
     "birth_year": 1982,
@@ -3298,6 +3304,12 @@
     "id": "p_hana_chylova",
     "name": "Hana Chýlová",
     "path": "data/people/p_hana_chylova.json"
+  },
+  {
+    "id": "p_hana_cielova",
+    "name": "Hana Cielová",
+    "birth_year": 1958,
+    "path": "data/people/p_hana_cielova.json"
   },
   {
     "id": "p_hana_cisarova",
@@ -3715,6 +3727,12 @@
     "path": "data/people/p_hanan_ashrawi.json"
   },
   {
+    "id": "p_hanan_ben_ari",
+    "name": "Hanan Ben Ari",
+    "birth_year": 1988,
+    "path": "data/people/p_hanan_ben_ari.json"
+  },
+  {
     "id": "p_hanan_hillo",
     "name": "Hanan Hillo",
     "birth_year": 1981,
@@ -4036,6 +4054,11 @@
     "name": "Hank Harris",
     "birth_year": 1979,
     "path": "data/people/p_hank_harris.json"
+  },
+  {
+    "id": "p_hank_hehmsoth",
+    "name": "Hank Hehmsoth",
+    "path": "data/people/p_hank_hehmsoth.json"
   },
   {
     "id": "p_hank_levine",
@@ -9557,6 +9580,11 @@
     "name": "Hasan Minhaj",
     "birth_year": 1985,
     "path": "data/people/p_hasan_minhaj.json"
+  },
+  {
+    "id": "p_hasan_ozsut",
+    "name": "Hasan Özsüt",
+    "path": "data/people/p_hasan_ozsut.json"
   },
   {
     "id": "p_hasan_tolga_tolga_pulat",
@@ -16411,6 +16439,12 @@
     "path": "data/people/p_henry_eikenberry.json"
   },
   {
+    "id": "p_henry_fitzherbert",
+    "name": "Henry FitzHerbert",
+    "birth_year": 1908,
+    "path": "data/people/p_henry_fitzherbert.json"
+  },
+  {
     "id": "p_henry_flynt",
     "name": "Henry Flynt",
     "birth_year": 1939,
@@ -16438,6 +16472,12 @@
     "id": "p_henry_garrett",
     "name": "Henry Garrett",
     "path": "data/people/p_henry_garrett.json"
+  },
+  {
+    "id": "p_henry_gayden",
+    "name": "Henry Gayden",
+    "birth_year": 1979,
+    "path": "data/people/p_henry_gayden.json"
   },
   {
     "id": "p_henry_geldzahler",
@@ -17334,6 +17374,12 @@
     "name": "Herdís Þorvaldsdóttir",
     "birth_year": 1923,
     "path": "data/people/p_herdis_orvaldsdottir.json"
+  },
+  {
+    "id": "p_herdis_stefansdottir",
+    "name": "Herdís Stefánsdóttir",
+    "birth_year": 1986,
+    "path": "data/people/p_herdis_stefansdottir.json"
   },
   {
     "id": "p_herdolor_lorenz",
@@ -19091,6 +19137,12 @@
     "name": "Hilary Duff",
     "birth_year": 1987,
     "path": "data/people/p_hilary_duff.json"
+  },
+  {
+    "id": "p_hilary_galanoy",
+    "name": "Hilary Galanoy",
+    "birth_year": 1949,
+    "path": "data/people/p_hilary_galanoy.json"
   },
   {
     "id": "p_hilary_howard",
@@ -21724,6 +21776,12 @@
     "name": "Holger Tappe",
     "birth_year": 1969,
     "path": "data/people/p_holger_tappe.json"
+  },
+  {
+    "id": "p_holland_andrews",
+    "name": "Holland Andrews",
+    "birth_year": 1988,
+    "path": "data/people/p_holland_andrews.json"
   },
   {
     "id": "p_holland_roden",
