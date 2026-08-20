@@ -1506,6 +1506,11 @@
     "path": "data/people/p_hal_b_wallis.json"
   },
   {
+    "id": "p_hal_beckett",
+    "name": "Hal Beckett",
+    "path": "data/people/p_hal_beckett.json"
+  },
+  {
     "id": "p_hal_cumpston",
     "name": "Hal Cumpston",
     "birth_year": 1998,
@@ -12462,6 +12467,12 @@
     "path": "data/people/p_hele_korve.json"
   },
   {
+    "id": "p_heleen_van_royen",
+    "name": "Heleen van Royen",
+    "birth_year": 1965,
+    "path": "data/people/p_heleen_van_royen.json"
+  },
+  {
     "id": "p_helel_smith",
     "name": "Helel Smith",
     "path": "data/people/p_helel_smith.json"
@@ -15598,6 +15609,11 @@
     "path": "data/people/p_henrik_norrthon.json"
   },
   {
+    "id": "p_henrik_olof_hawor",
+    "name": "Henrik Olof Hawor",
+    "path": "data/people/p_henrik_olof_hawor.json"
+  },
+  {
     "id": "p_henrik_peschel",
     "name": "Henrik Peschel",
     "birth_year": 1966,
@@ -17129,6 +17145,12 @@
     "path": "data/people/p_hermann_bonnin.json"
   },
   {
+    "id": "p_hermann_brauer",
+    "name": "Hermann Bräuer",
+    "birth_year": 1968,
+    "path": "data/people/p_hermann_brauer.json"
+  },
+  {
     "id": "p_hermann_eppert",
     "name": "Hermann Eppert",
     "path": "data/people/p_hermann_eppert.json"
@@ -18334,6 +18356,12 @@
     "name": "Hideyuki Katsuki",
     "birth_year": 1956,
     "path": "data/people/p_hideyuki_katsuki.json"
+  },
+  {
+    "id": "p_hideyuki_kurata",
+    "name": "Hideyuki Kurata",
+    "birth_year": 1968,
+    "path": "data/people/p_hideyuki_kurata.json"
   },
   {
     "id": "p_hideyuki_tanaka",
@@ -20224,6 +20252,12 @@
     "name": "Hiroya Ishimaru",
     "birth_year": 1941,
     "path": "data/people/p_hiroya_ishimaru.json"
+  },
+  {
+    "id": "p_hiroya_oku",
+    "name": "Hiroya Oku",
+    "birth_year": 1967,
+    "path": "data/people/p_hiroya_oku.json"
   },
   {
     "id": "p_hiroya_shimizu",
@@ -22453,6 +22487,12 @@
     "path": "data/people/p_hortense_gelinet.json"
   },
   {
+    "id": "p_horton_foote",
+    "name": "Horton Foote",
+    "birth_year": 1916,
+    "path": "data/people/p_horton_foote.json"
+  },
+  {
     "id": "p_hosea_ratschiller",
     "name": "Hosea Ratschiller",
     "birth_year": 1981,
@@ -23236,6 +23276,12 @@
     "path": "data/people/p_howie_b.json"
   },
   {
+    "id": "p_howie_beck",
+    "name": "Howie Beck",
+    "birth_year": 1970,
+    "path": "data/people/p_howie_beck.json"
+  },
+  {
     "id": "p_howie_klausner",
     "name": "Howie Klausner",
     "birth_year": 1959,
@@ -23407,6 +23453,11 @@
     "path": "data/people/p_hristina_hatziharalabous.json"
   },
   {
+    "id": "p_hristina_kotzabasi",
+    "name": "Hristina Kotzabasi",
+    "path": "data/people/p_hristina_kotzabasi.json"
+  },
+  {
     "id": "p_hristina_popovic",
     "name": "Hristina Popovic",
     "birth_year": 1982,
@@ -23417,6 +23468,12 @@
     "name": "Hristo Dimitrov-Hindo",
     "birth_year": 1953,
     "path": "data/people/p_hristo_dimitrovhindo.json"
+  },
+  {
+    "id": "p_hristo_ganev",
+    "name": "Hristo Ganev",
+    "birth_year": 1924,
+    "path": "data/people/p_hristo_ganev.json"
   },
   {
     "id": "p_hristo_garbov",
@@ -24442,6 +24499,12 @@
     "name": "Hugh Jackman",
     "birth_year": 1968,
     "path": "data/people/p_hugh_jackman.json"
+  },
+  {
+    "id": "p_hugh_janes",
+    "name": "Hugh Janes",
+    "birth_year": 1947,
+    "path": "data/people/p_hugh_janes.json"
   },
   {
     "id": "p_hugh_johnson",
