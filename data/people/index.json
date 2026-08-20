@@ -403,6 +403,11 @@
     "path": "data/people/p_hachimiya_ahamada.json"
   },
   {
+    "id": "p_hachiro_guru",
+    "name": "Hachiro Guru",
+    "path": "data/people/p_hachiro_guru.json"
+  },
+  {
     "id": "p_hacken_lee",
     "name": "Hacken Lee",
     "birth_year": 1967,
@@ -2912,6 +2917,12 @@
     "path": "data/people/p_han_hayoo.json"
   },
   {
+    "id": "p_han_hong",
+    "name": "Han Hong",
+    "birth_year": 1971,
+    "path": "data/people/p_han_hong.json"
+  },
+  {
     "id": "p_han_hyejin",
     "name": "Han Hye-jin",
     "birth_year": 1981,
@@ -4572,6 +4583,11 @@
     "path": "data/people/p_hanna_virolainen.json"
   },
   {
+    "id": "p_hanna_weg",
+    "name": "Hanna Weg",
+    "path": "data/people/p_hanna_weg.json"
+  },
+  {
     "id": "p_hanna_wijaya",
     "name": "Hanna Wijaya",
     "path": "data/people/p_hanna_wijaya.json"
@@ -4813,6 +4829,12 @@
     "path": "data/people/p_hannah_kasulka.json"
   },
   {
+    "id": "p_hannah_kent",
+    "name": "Hannah Kent",
+    "birth_year": 1984,
+    "path": "data/people/p_hannah_kent.json"
+  },
+  {
     "id": "p_hannah_khaliquebrown",
     "name": "Hannah Khalique-Brown",
     "birth_year": 1998,
@@ -4889,6 +4911,11 @@
     "id": "p_hannah_olson",
     "name": "Hannah Olson",
     "path": "data/people/p_hannah_olson.json"
+  },
+  {
+    "id": "p_hannah_parrott",
+    "name": "Hannah Parrott",
+    "path": "data/people/p_hannah_parrott.json"
   },
   {
     "id": "p_hannah_pearl_utt",
@@ -5859,6 +5886,12 @@
     "path": "data/people/p_hans_h_steinberg.json"
   },
   {
+    "id": "p_hans_hafner",
+    "name": "Hans Hafner",
+    "birth_year": 1972,
+    "path": "data/people/p_hans_hafner.json"
+  },
+  {
     "id": "p_hans_haldimann",
     "name": "Hans Haldimann",
     "birth_year": 1952,
@@ -6809,6 +6842,12 @@
     "name": "Hans-Thies Lehmann",
     "birth_year": 1944,
     "path": "data/people/p_hansthies_lehmann.json"
+  },
+  {
+    "id": "p_hansullrich_krause",
+    "name": "Hans-Ullrich Krause",
+    "birth_year": 1953,
+    "path": "data/people/p_hansullrich_krause.json"
   },
   {
     "id": "p_hansulrich_schlumpf",
@@ -8394,6 +8433,12 @@
     "name": "Harry Alan Towers",
     "birth_year": 1920,
     "path": "data/people/p_harry_alan_towers.json"
+  },
+  {
+    "id": "p_harry_allouche",
+    "name": "Harry Allouche",
+    "birth_year": 1949,
+    "path": "data/people/p_harry_allouche.json"
   },
   {
     "id": "p_harry_anderson",
@@ -10963,6 +11008,12 @@
     "path": "data/people/p_heath_padgett.json"
   },
   {
+    "id": "p_heath_seifert",
+    "name": "Heath Seifert",
+    "birth_year": 1952,
+    "path": "data/people/p_heath_seifert.json"
+  },
+  {
     "id": "p_heath_woodlief",
     "name": "Heath Woodlief",
     "path": "data/people/p_heath_woodlief.json"
@@ -11660,6 +11711,12 @@
     "id": "p_hector_quintero",
     "name": "Héctor Quintero",
     "path": "data/people/p_hector_quintero.json"
+  },
+  {
+    "id": "p_hector_ruiz",
+    "name": "Hector Ruiz",
+    "birth_year": 1945,
+    "path": "data/people/p_hector_ruiz.json"
   },
   {
     "id": "p_hector_suarez",
@@ -15092,6 +15149,17 @@
     "path": "data/people/p_hendrik_nachtsheim.json"
   },
   {
+    "id": "p_hendrik_nolle",
+    "name": "Hendrik Nölle",
+    "path": "data/people/p_hendrik_nolle.json"
+  },
+  {
+    "id": "p_hendrik_salsaller",
+    "name": "Hendrik Sal-Saller",
+    "birth_year": 1966,
+    "path": "data/people/p_hendrik_salsaller.json"
+  },
+  {
     "id": "p_hendrik_schafer",
     "name": "Hendrik Schäfer",
     "path": "data/people/p_hendrik_schafer.json"
@@ -15376,6 +15444,12 @@
     "name": "Henning Peker",
     "birth_year": 1966,
     "path": "data/people/p_henning_peker.json"
+  },
+  {
+    "id": "p_henning_schmitz",
+    "name": "Henning Schmitz",
+    "birth_year": 1953,
+    "path": "data/people/p_henning_schmitz.json"
   },
   {
     "id": "p_henning_vogt",
@@ -15993,6 +16067,12 @@
     "name": "Henrik List",
     "birth_year": 1965,
     "path": "data/people/p_henrik_list.json"
+  },
+  {
+    "id": "p_henrik_lorstad",
+    "name": "Henrik Lörstad",
+    "birth_year": 1964,
+    "path": "data/people/p_henrik_lorstad.json"
   },
   {
     "id": "p_henrik_lund",
@@ -17683,6 +17763,12 @@
     "path": "data/people/p_herman_witkam.json"
   },
   {
+    "id": "p_herman_wouk",
+    "name": "Herman Wouk",
+    "birth_year": 1915,
+    "path": "data/people/p_herman_wouk.json"
+  },
+  {
     "id": "p_herman_yau",
     "name": "Herman Yau",
     "birth_year": 1960,
@@ -18016,6 +18102,11 @@
     "name": "Hernán Rosselli",
     "birth_year": 1978,
     "path": "data/people/p_hernan_rosselli.json"
+  },
+  {
+    "id": "p_hernan_segret",
+    "name": "Hernán Segret",
+    "path": "data/people/p_hernan_segret.json"
   },
   {
     "id": "p_hernan_velit",
@@ -18383,6 +18474,11 @@
     "name": "Hesam Manzour",
     "birth_year": 1980,
     "path": "data/people/p_hesam_manzour.json"
+  },
+  {
+    "id": "p_hesam_naseri",
+    "name": "Hesam Naseri",
+    "path": "data/people/p_hesam_naseri.json"
   },
   {
     "id": "p_hesam_navab_safavi",
@@ -19238,6 +19334,12 @@
     "name": "Hilal Saral",
     "birth_year": 1970,
     "path": "data/people/p_hilal_saral.json"
+  },
+  {
+    "id": "p_hilal_sezgin",
+    "name": "Hilal Sezgin",
+    "birth_year": 1970,
+    "path": "data/people/p_hilal_sezgin.json"
   },
   {
     "id": "p_hilari_pujol",
@@ -20481,6 +20583,12 @@
     "path": "data/people/p_hiromi_tojo.json"
   },
   {
+    "id": "p_hiromi_uehara",
+    "name": "Hiromi Uehara",
+    "birth_year": 1979,
+    "path": "data/people/p_hiromi_uehara.json"
+  },
+  {
     "id": "p_hiromichi_nakao",
     "name": "Hiromichi Nakao",
     "path": "data/people/p_hiromichi_nakao.json"
@@ -20947,6 +21055,12 @@
     "path": "data/people/p_hiroyasu_ishida.json"
   },
   {
+    "id": "p_hiroyoshi_koiwai",
+    "name": "Hiroyoshi Koiwai",
+    "birth_year": 1959,
+    "path": "data/people/p_hiroyoshi_koiwai.json"
+  },
+  {
     "id": "p_hiroyuki_hirayama",
     "name": "Hiroyuki Hirayama",
     "birth_year": 1977,
@@ -21259,6 +21373,12 @@
     "name": "Hisham Fageeh",
     "birth_year": 1987,
     "path": "data/people/p_hisham_fageeh.json"
+  },
+  {
+    "id": "p_hisham_kharma",
+    "name": "Hisham Kharma",
+    "birth_year": 1987,
+    "path": "data/people/p_hisham_kharma.json"
   },
   {
     "id": "p_hisham_sulliman",
@@ -22023,6 +22143,11 @@
     "name": "Holly Aird",
     "birth_year": 1969,
     "path": "data/people/p_holly_aird.json"
+  },
+  {
+    "id": "p_holly_amber_church",
+    "name": "Holly Amber Church",
+    "path": "data/people/p_holly_amber_church.json"
   },
   {
     "id": "p_holly_carter",
