@@ -583,6 +583,12 @@
     "path": "data/people/p_hadrah_daeng_ratu.json"
   },
   {
+    "id": "p_hadrian_filip_tabecki",
+    "name": "Hadrian Filip Tabęcki",
+    "birth_year": 1975,
+    "path": "data/people/p_hadrian_filip_tabecki.json"
+  },
+  {
     "id": "p_hadrien_la_vapeur",
     "name": "Hadrien La Vapeur",
     "path": "data/people/p_hadrien_la_vapeur.json"
@@ -2401,6 +2407,11 @@
     "path": "data/people/p_hamidreza_azarang.json"
   },
   {
+    "id": "p_hamidreza_dibazar",
+    "name": "Hamidreza Dibazar",
+    "path": "data/people/p_hamidreza_dibazar.json"
+  },
+  {
     "id": "p_hamidreza_ghorbani",
     "name": "Hamidreza Ghorbani",
     "birth_year": 1967,
@@ -3884,6 +3895,11 @@
     "path": "data/people/p_hank_marvin.json"
   },
   {
+    "id": "p_hank_nelken",
+    "name": "Hank Nelken",
+    "path": "data/people/p_hank_nelken.json"
+  },
+  {
     "id": "p_hank_rogerson",
     "name": "Hank Rogerson",
     "path": "data/people/p_hank_rogerson.json"
@@ -4514,6 +4530,12 @@
     "name": "Hannah Hoekstra",
     "birth_year": 1987,
     "path": "data/people/p_hannah_hoekstra.json"
+  },
+  {
+    "id": "p_hannah_hollinger",
+    "name": "Hannah Hollinger",
+    "birth_year": 1999,
+    "path": "data/people/p_hannah_hollinger.json"
   },
   {
     "id": "p_hannah_hornsby",
@@ -5342,6 +5364,12 @@
     "path": "data/people/p_hans_alfredson.json"
   },
   {
+    "id": "p_hans_arnbom",
+    "name": "Hans Arnbom",
+    "birth_year": 1952,
+    "path": "data/people/p_hans_arnbom.json"
+  },
+  {
     "id": "p_hans_blix",
     "name": "Hans Blix",
     "birth_year": 1928,
@@ -5485,6 +5513,12 @@
     "path": "data/people/p_hans_fjellestad.json"
   },
   {
+    "id": "p_hans_gunnarsson",
+    "name": "Hans Gunnarsson",
+    "birth_year": 1966,
+    "path": "data/people/p_hans_gunnarsson.json"
+  },
+  {
     "id": "p_hans_h_luik",
     "name": "Hans H. Luik",
     "birth_year": 1961,
@@ -5596,6 +5630,12 @@
     "name": "Hans Isaac",
     "birth_year": 1971,
     "path": "data/people/p_hans_isaac.json"
+  },
+  {
+    "id": "p_hans_iveberg",
+    "name": "Hans Iveberg",
+    "birth_year": 1941,
+    "path": "data/people/p_hans_iveberg.json"
   },
   {
     "id": "p_hans_jacob_sand",
@@ -7311,6 +7351,12 @@
     "path": "data/people/p_harley_jane_kozak.json"
   },
   {
+    "id": "p_harley_peyton",
+    "name": "Harley Peyton",
+    "birth_year": 1900,
+    "path": "data/people/p_harley_peyton.json"
+  },
+  {
     "id": "p_harley_quinn_smith",
     "name": "Harley Quinn Smith",
     "birth_year": 1999,
@@ -7932,6 +7978,12 @@
     "name": "Harry Bromley Davenport",
     "birth_year": 1950,
     "path": "data/people/p_harry_bromley_davenport.json"
+  },
+  {
+    "id": "p_harry_brown",
+    "name": "Harry Brown",
+    "birth_year": 1917,
+    "path": "data/people/p_harry_brown.json"
   },
   {
     "id": "p_harry_bugin",
@@ -12202,6 +12254,12 @@
     "path": "data/people/p_helen_estabrook.json"
   },
   {
+    "id": "p_helen_fielding",
+    "name": "Helen Fielding",
+    "birth_year": 1958,
+    "path": "data/people/p_helen_fielding.json"
+  },
+  {
     "id": "p_helen_frankenthaler",
     "name": "Helen Frankenthaler",
     "birth_year": 1928,
@@ -13888,6 +13946,12 @@
     "name": "Helmut Metzger",
     "birth_year": 1958,
     "path": "data/people/p_helmut_metzger.json"
+  },
+  {
+    "id": "p_helmut_newton",
+    "name": "Helmut Newton",
+    "birth_year": 1920,
+    "path": "data/people/p_helmut_newton.json"
   },
   {
     "id": "p_helmut_ruhl",
@@ -16526,9 +16590,21 @@
     "path": "data/people/p_herman_meckler.json"
   },
   {
+    "id": "p_herman_melville",
+    "name": "Herman Melville",
+    "birth_year": 1819,
+    "path": "data/people/p_herman_melville.json"
+  },
+  {
     "id": "p_herman_pihlak",
     "name": "Herman Pihlak",
     "path": "data/people/p_herman_pihlak.json"
+  },
+  {
+    "id": "p_herman_raucher",
+    "name": "Herman Raucher",
+    "birth_year": 1928,
+    "path": "data/people/p_herman_raucher.json"
   },
   {
     "id": "p_herman_sikumbang",
@@ -22155,6 +22231,12 @@
     "path": "data/people/p_houshang_golmakani.json"
   },
   {
+    "id": "p_houshang_moradi_kermani",
+    "name": "Houshang Moradi Kermani",
+    "birth_year": 1944,
+    "path": "data/people/p_houshang_moradi_kermani.json"
+  },
+  {
     "id": "p_houshang_radipour",
     "name": "Houshang Radipour",
     "path": "data/people/p_houshang_radipour.json"
@@ -22315,6 +22397,12 @@
     "id": "p_howard_ferguson_jr",
     "name": "Howard Ferguson, Jr.",
     "path": "data/people/p_howard_ferguson_jr.json"
+  },
+  {
+    "id": "p_howard_franklin",
+    "name": "Howard Franklin",
+    "birth_year": 1999,
+    "path": "data/people/p_howard_franklin.json"
   },
   {
     "id": "p_howard_gertler",
@@ -23726,6 +23814,12 @@
     "name": "Hugh Laurie",
     "birth_year": 1959,
     "path": "data/people/p_hugh_laurie.json"
+  },
+  {
+    "id": "p_hugh_lofting",
+    "name": "Hugh Lofting",
+    "birth_year": 1886,
+    "path": "data/people/p_hugh_lofting.json"
   },
   {
     "id": "p_hugh_maguire",
