@@ -18,6 +18,12 @@
     "path": "data/people/p_h_d_premaratne.json"
   },
   {
+    "id": "p_h_g_bissinger",
+    "name": "H. G. Bissinger",
+    "birth_year": 1954,
+    "path": "data/people/p_h_g_bissinger.json"
+  },
+  {
     "id": "p_h_g_dattatreya",
     "name": "H. G. Dattatreya",
     "birth_year": 1941,
@@ -2422,6 +2428,12 @@
     "name": "Hamidreza Ghorbani",
     "birth_year": 1967,
     "path": "data/people/p_hamidreza_ghorbani.json"
+  },
+  {
+    "id": "p_hamidreza_sadri",
+    "name": "Hamidreza Sadri",
+    "birth_year": 1965,
+    "path": "data/people/p_hamidreza_sadri.json"
   },
   {
     "id": "p_hamilton_dhlamini",
@@ -5602,6 +5614,11 @@
     "path": "data/people/p_hans_heiss.json"
   },
   {
+    "id": "p_hans_helewaut",
+    "name": "Hans Helewaut",
+    "path": "data/people/p_hans_helewaut.json"
+  },
+  {
     "id": "p_hans_helmut_grotjahn",
     "name": "Hans Helmut Grotjahn",
     "birth_year": 1943,
@@ -7504,6 +7521,12 @@
     "path": "data/people/p_harold_becker.json"
   },
   {
+    "id": "p_harold_budd",
+    "name": "Harold Budd",
+    "birth_year": 1936,
+    "path": "data/people/p_harold_budd.json"
+  },
+  {
     "id": "p_harold_cronk",
     "name": "Harold Cronk",
     "birth_year": 1974,
@@ -8871,6 +8894,12 @@
     "path": "data/people/p_haruki_mochizuki.json"
   },
   {
+    "id": "p_haruki_murakami",
+    "name": "Haruki Murakami",
+    "birth_year": 1949,
+    "path": "data/people/p_haruki_murakami.json"
+  },
+  {
     "id": "p_haruki_nakagawa",
     "name": "Haruki Nakagawa",
     "birth_year": 1976,
@@ -9337,6 +9366,12 @@
     "id": "p_hassan_ali",
     "name": "Hassan Ali",
     "path": "data/people/p_hassan_ali.json"
+  },
+  {
+    "id": "p_hassan_ansarian",
+    "name": "Hassan Ansarian",
+    "birth_year": 1960,
+    "path": "data/people/p_hassan_ansarian.json"
   },
   {
     "id": "p_hassan_asadi",
@@ -13977,6 +14012,12 @@
     "path": "data/people/p_helmut_dietl.json"
   },
   {
+    "id": "p_helmut_dziuba",
+    "name": "Helmut Dziuba",
+    "birth_year": 1933,
+    "path": "data/people/p_helmut_dziuba.json"
+  },
+  {
     "id": "p_helmut_fornbacher",
     "name": "Helmut Förnbacher",
     "birth_year": 1936,
@@ -14828,6 +14869,12 @@
     "name": "Henri Steinmetz",
     "birth_year": 1999,
     "path": "data/people/p_henri_steinmetz.json"
+  },
+  {
+    "id": "p_henri_texier",
+    "name": "Henri Texier",
+    "birth_year": 1945,
+    "path": "data/people/p_henri_texier.json"
   },
   {
     "id": "p_henri_verneuil",
@@ -16922,6 +16969,12 @@
     "path": "data/people/p_hermila_guedes.json"
   },
   {
+    "id": "p_hermina_frankova",
+    "name": "Hermína Franková",
+    "birth_year": 1928,
+    "path": "data/people/p_hermina_frankova.json"
+  },
+  {
     "id": "p_hermine_huntgeburth",
     "name": "Hermine Huntgeburth",
     "birth_year": 1957,
@@ -17349,6 +17402,12 @@
     "name": "Hervé Pierre",
     "birth_year": 1955,
     "path": "data/people/p_herve_pierre.json"
+  },
+  {
+    "id": "p_herve_postic",
+    "name": "Hervé Postic",
+    "birth_year": 1964,
+    "path": "data/people/p_herve_postic.json"
   },
   {
     "id": "p_herve_renoh",
@@ -19618,6 +19677,12 @@
     "name": "Hiroshi Katsuno",
     "birth_year": 1949,
     "path": "data/people/p_hiroshi_katsuno.json"
+  },
+  {
+    "id": "p_hiroshi_kishimoto",
+    "name": "Hiroshi Kishimoto",
+    "birth_year": 1951,
+    "path": "data/people/p_hiroshi_kishimoto.json"
   },
   {
     "id": "p_hiroshi_kobayashi",
@@ -21922,6 +21987,12 @@
     "name": "Horst Buchholz",
     "birth_year": 1933,
     "path": "data/people/p_horst_buchholz.json"
+  },
+  {
+    "id": "p_horst_freund",
+    "name": "Horst Freund",
+    "birth_year": 1954,
+    "path": "data/people/p_horst_freund.json"
   },
   {
     "id": "p_horst_johann_sczerba",
@@ -24420,6 +24491,12 @@
     "name": "Hugo Metsers III",
     "birth_year": 1968,
     "path": "data/people/p_hugo_metsers_iii.json"
+  },
+  {
+    "id": "p_hugo_neira",
+    "name": "Hugo Neira",
+    "birth_year": 1936,
+    "path": "data/people/p_hugo_neira.json"
   },
   {
     "id": "p_hugo_ng",
