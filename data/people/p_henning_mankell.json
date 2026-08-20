@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henning_mankell",
+  "name": "Henning Mankell",
+  "external_ids": {
+    "wikidata": "Q193346",
+    "imdb": "nm0542520"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948,
+  "death_year": 2015
+}

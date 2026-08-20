@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_h_g_wells",
+  "name": "H. G. Wells",
+  "external_ids": {
+    "wikidata": "Q42511",
+    "imdb": "nm0920229"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1866,
+  "death_year": 1946
+}
