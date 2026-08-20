@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henk_hofstede",
+  "name": "Henk Hofstede",
+  "external_ids": {
+    "wikidata": "Q1605241",
+    "imdb": "nm0389443"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951
+}

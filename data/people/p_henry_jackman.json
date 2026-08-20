@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_henry_jackman",
+  "name": "Henry Jackman",
+  "external_ids": {
+    "wikidata": "Q1356888",
+    "imdb": "nm2273444"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
