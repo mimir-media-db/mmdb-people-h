@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hannes_burger",
+  "name": "Hannes Burger",
+  "external_ids": {
+    "wikidata": "Q1575960",
+    "imdb": "nm2534726"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1937,
+  "death_year": 2026
+}
