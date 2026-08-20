@@ -778,6 +778,12 @@
     "path": "data/people/p_hahm_eunjung.json"
   },
   {
+    "id": "p_hahn_rowe",
+    "name": "Hahn Rowe",
+    "birth_year": 1960,
+    "path": "data/people/p_hahn_rowe.json"
+  },
+  {
     "id": "p_hai_iep",
     "name": "Hải Điệp",
     "birth_year": 1951,
@@ -2291,6 +2297,12 @@
     "path": "data/people/p_hamed_nejabat.json"
   },
   {
+    "id": "p_hamed_sabet",
+    "name": "Hamed Sabet",
+    "birth_year": 1979,
+    "path": "data/people/p_hamed_sabet.json"
+  },
+  {
     "id": "p_hameed_sheikh",
     "name": "Hameed Sheikh",
     "birth_year": 1969,
@@ -2312,6 +2324,12 @@
     "id": "p_hamid_ali",
     "name": "Hamid Ali",
     "path": "data/people/p_hamid_ali.json"
+  },
+  {
+    "id": "p_hamid_amjad",
+    "name": "Hamid Amjad",
+    "birth_year": 1968,
+    "path": "data/people/p_hamid_amjad.json"
   },
   {
     "id": "p_hamid_benani",
@@ -4342,6 +4360,12 @@
     "path": "data/people/p_hanna_rieber.json"
   },
   {
+    "id": "p_hanna_samson",
+    "name": "Hanna Samson",
+    "birth_year": 1949,
+    "path": "data/people/p_hanna_samson.json"
+  },
+  {
     "id": "p_hanna_scheibe",
     "name": "Hanna Scheibe",
     "birth_year": 1972,
@@ -5077,6 +5101,12 @@
     "path": "data/people/p_hannelore_schubert.json"
   },
   {
+    "id": "p_hannelore_valencak",
+    "name": "Hannelore Valencak",
+    "birth_year": 1929,
+    "path": "data/people/p_hannelore_valencak.json"
+  },
+  {
     "id": "p_hannes_baumgartner",
     "name": "Hannes Baumgartner",
     "birth_year": 1982,
@@ -5234,6 +5264,12 @@
     "name": "Hannes Vartiainen",
     "birth_year": 1979,
     "path": "data/people/p_hannes_vartiainen.json"
+  },
+  {
+    "id": "p_hannes_wader",
+    "name": "Hannes Wader",
+    "birth_year": 1942,
+    "path": "data/people/p_hannes_wader.json"
   },
   {
     "id": "p_hannes_wegener",
@@ -12019,6 +12055,12 @@
     "path": "data/people/p_heikki_ranta.json"
   },
   {
+    "id": "p_heikki_salo",
+    "name": "Heikki Salo",
+    "birth_year": 1957,
+    "path": "data/people/p_heikki_salo.json"
+  },
+  {
     "id": "p_heikki_sankari",
     "name": "Heikki Sankari",
     "birth_year": 1968,
@@ -15503,6 +15545,11 @@
     "path": "data/people/p_henrik_larsson.json"
   },
   {
+    "id": "p_henrik_lindstrom",
+    "name": "Henrik Lindström",
+    "path": "data/people/p_henrik_lindstrom.json"
+  },
+  {
     "id": "p_henrik_linnros",
     "name": "Henrik Linnros",
     "birth_year": 1982,
@@ -18838,6 +18885,12 @@
     "path": "data/people/p_hildigunn_eyfinnsdottir.json"
   },
   {
+    "id": "p_hildur_gunadottir",
+    "name": "Hildur Guðnadóttir",
+    "birth_year": 1982,
+    "path": "data/people/p_hildur_gunadottir.json"
+  },
+  {
     "id": "p_hili_yalon",
     "name": "Hili Yalon",
     "birth_year": 1985,
@@ -20643,6 +20696,11 @@
     "path": "data/people/p_hitesh_paulbhai_khristy.json"
   },
   {
+    "id": "p_hitesh_sonik",
+    "name": "Hitesh Sonik",
+    "path": "data/people/p_hitesh_sonik.json"
+  },
+  {
     "id": "p_hitha_chandrashekar",
     "name": "Hitha Chandrashekar",
     "path": "data/people/p_hitha_chandrashekar.json"
@@ -20777,6 +20835,12 @@
     "name": "Hitoshi Ozawa",
     "birth_year": 1962,
     "path": "data/people/p_hitoshi_ozawa.json"
+  },
+  {
+    "id": "p_hitoshi_sakimoto",
+    "name": "Hitoshi Sakimoto",
+    "birth_year": 1969,
+    "path": "data/people/p_hitoshi_sakimoto.json"
   },
   {
     "id": "p_hitoshi_takekiyo",
@@ -25267,6 +25331,11 @@
     "name": "Hugues Quester",
     "birth_year": 1948,
     "path": "data/people/p_hugues_quester.json"
+  },
+  {
+    "id": "p_hugues_tabarnouval",
+    "name": "Hugues Tabar-Nouval",
+    "path": "data/people/p_hugues_tabarnouval.json"
   },
   {
     "id": "p_hugues_tissandier",
