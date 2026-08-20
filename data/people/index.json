@@ -2658,6 +2658,12 @@
     "path": "data/people/p_hamom_sadananda.json"
   },
   {
+    "id": "p_hampton_fancher",
+    "name": "Hampton Fancher",
+    "birth_year": 1938,
+    "path": "data/people/p_hampton_fancher.json"
+  },
+  {
     "id": "p_hampus_anderssongrill",
     "name": "Hampus Andersson-Grill",
     "birth_year": 1991,
@@ -4726,6 +4732,12 @@
     "name": "Hannah Hunter",
     "birth_year": 1986,
     "path": "data/people/p_hannah_hunter.json"
+  },
+  {
+    "id": "p_hannah_imbert_morell",
+    "name": "Hannah Imbert Morell",
+    "birth_year": 1984,
+    "path": "data/people/p_hannah_imbert_morell.json"
   },
   {
     "id": "p_hannah_jeter",
@@ -8957,6 +8969,12 @@
     "path": "data/people/p_harshavardhan_kulkarni.json"
   },
   {
+    "id": "p_harshavardhan_rameshwar",
+    "name": "Harshavardhan Rameshwar",
+    "birth_year": 1900,
+    "path": "data/people/p_harshavardhan_rameshwar.json"
+  },
+  {
     "id": "p_harshika_poonacha",
     "name": "Harshika Poonacha",
     "birth_year": 1990,
@@ -9025,6 +9043,12 @@
     "name": "Hartmut Guy",
     "birth_year": 1955,
     "path": "data/people/p_hartmut_guy.json"
+  },
+  {
+    "id": "p_hartmut_kasper",
+    "name": "Hartmut Kasper",
+    "birth_year": 1959,
+    "path": "data/people/p_hartmut_kasper.json"
   },
   {
     "id": "p_hartmut_schwenk",
@@ -10224,6 +10248,12 @@
     "path": "data/people/p_hayao_miyazaki.json"
   },
   {
+    "id": "p_hayashi_mori",
+    "name": "Hayashi Mori",
+    "birth_year": 1978,
+    "path": "data/people/p_hayashi_mori.json"
+  },
+  {
     "id": "p_hayashi_risa",
     "name": "Hayashi Risa",
     "path": "data/people/p_hayashi_risa.json"
@@ -10712,6 +10742,12 @@
     "name": "He Jiong",
     "birth_year": 1974,
     "path": "data/people/p_he_jiong.json"
+  },
+  {
+    "id": "p_he_jiping",
+    "name": "He Jiping",
+    "birth_year": 1950,
+    "path": "data/people/p_he_jiping.json"
   },
   {
     "id": "p_he_landou",
@@ -12590,6 +12626,12 @@
     "path": "data/people/p_heirikur_a_heygum.json"
   },
   {
+    "id": "p_heitor_carrilho",
+    "name": "Heitor Carrilho",
+    "birth_year": 1890,
+    "path": "data/people/p_heitor_carrilho.json"
+  },
+  {
     "id": "p_heitor_dhalia",
     "name": "Heitor Dhalia",
     "birth_year": 1970,
@@ -14462,6 +14504,12 @@
     "path": "data/people/p_helmut_krauss.json"
   },
   {
+    "id": "p_helmut_krausser",
+    "name": "Helmut Krausser",
+    "birth_year": 1964,
+    "path": "data/people/p_helmut_krausser.json"
+  },
+  {
     "id": "p_helmut_krumminga",
     "name": "Helmut Krumminga",
     "birth_year": 1961,
@@ -14876,6 +14924,12 @@
     "path": "data/people/p_hendrik_scheider.json"
   },
   {
+    "id": "p_hendrik_schwarzer",
+    "name": "Hendrik Schwarzer",
+    "birth_year": 1986,
+    "path": "data/people/p_hendrik_schwarzer.json"
+  },
+  {
     "id": "p_hendrik_toompere",
     "name": "Hendrik Toompere",
     "birth_year": 1964,
@@ -15174,6 +15228,12 @@
     "name": "Henny Vrienten",
     "birth_year": 1948,
     "path": "data/people/p_henny_vrienten.json"
+  },
+  {
+    "id": "p_henree",
+    "name": "Henree",
+    "birth_year": 1978,
+    "path": "data/people/p_henree.json"
   },
   {
     "id": "p_henri_attal",
@@ -15666,6 +15726,11 @@
     "path": "data/people/p_henrik_horge.json"
   },
   {
+    "id": "p_henrik_hylland_uhlving",
+    "name": "Henrik Hylland Uhlving",
+    "path": "data/people/p_henrik_hylland_uhlving.json"
+  },
+  {
     "id": "p_henrik_ibsen",
     "name": "Henrik Ibsen",
     "birth_year": 1828,
@@ -15834,6 +15899,12 @@
     "name": "Henrik Norrthon",
     "birth_year": 1979,
     "path": "data/people/p_henrik_norrthon.json"
+  },
+  {
+    "id": "p_henrik_oja",
+    "name": "Henrik Oja",
+    "birth_year": 1972,
+    "path": "data/people/p_henrik_oja.json"
   },
   {
     "id": "p_henrik_olof_hawor",
@@ -16745,6 +16816,12 @@
     "path": "data/people/p_henryk_bazejczyk.json"
   },
   {
+    "id": "p_henryk_broder",
+    "name": "Henryk Broder",
+    "birth_year": 1946,
+    "path": "data/people/p_henryk_broder.json"
+  },
+  {
     "id": "p_henryk_chroscicki",
     "name": "Henryk Chroscicki",
     "birth_year": 1919,
@@ -16767,6 +16844,12 @@
     "name": "Henryk Mandelbaum",
     "birth_year": 1922,
     "path": "data/people/p_henryk_mandelbaum.json"
+  },
+  {
+    "id": "p_henryk_mikolaj_gorecki",
+    "name": "Henryk Mikolaj Górecki",
+    "birth_year": 1933,
+    "path": "data/people/p_henryk_mikolaj_gorecki.json"
   },
   {
     "id": "p_henryk_niebudek",
@@ -17620,6 +17703,12 @@
     "path": "data/people/p_hernan_goldfrid.json"
   },
   {
+    "id": "p_hernan_gonzalez",
+    "name": "Hernán González",
+    "birth_year": 1975,
+    "path": "data/people/p_hernan_gonzalez.json"
+  },
+  {
     "id": "p_hernan_guerschuny",
     "name": "Hernán Guerschuny",
     "birth_year": 1973,
@@ -17972,6 +18061,12 @@
     "name": "Hervé Postic",
     "birth_year": 1964,
     "path": "data/people/p_herve_postic.json"
+  },
+  {
+    "id": "p_herve_rakotofiringa",
+    "name": "Hervé Rakotofiringa",
+    "birth_year": 1967,
+    "path": "data/people/p_herve_rakotofiringa.json"
   },
   {
     "id": "p_herve_renoh",
@@ -19064,6 +19159,12 @@
     "path": "data/people/p_hilde_lyran.json"
   },
   {
+    "id": "p_hilde_susan_jgtnes",
+    "name": "Hilde Susan Jægtnes",
+    "birth_year": 1972,
+    "path": "data/people/p_hilde_susan_jgtnes.json"
+  },
+  {
     "id": "p_hilde_van_haesendonck",
     "name": "Hilde Van Haesendonck",
     "birth_year": 1953,
@@ -20016,6 +20117,11 @@
     "path": "data/people/p_hiroko_akune.json"
   },
   {
+    "id": "p_hiroko_fukazawa",
+    "name": "Hiroko Fukazawa",
+    "path": "data/people/p_hiroko_fukazawa.json"
+  },
+  {
     "id": "p_hiroko_isayama",
     "name": "Hiroko Isayama",
     "birth_year": 1952,
@@ -20141,6 +20247,12 @@
     "id": "p_hiromoto_ida",
     "name": "Hiromoto Ida",
     "path": "data/people/p_hiromoto_ida.json"
+  },
+  {
+    "id": "p_hiromu_arakawa",
+    "name": "Hiromu Arakawa",
+    "birth_year": 1973,
+    "path": "data/people/p_hiromu_arakawa.json"
   },
   {
     "id": "p_hiromu_nakamura",
@@ -20420,6 +20532,12 @@
     "name": "Hiroshi Ryōgoku",
     "birth_year": 1971,
     "path": "data/people/p_hiroshi_ryogoku.json"
+  },
+  {
+    "id": "p_hiroshi_saito",
+    "name": "Hiroshi Saitō",
+    "birth_year": 1936,
+    "path": "data/people/p_hiroshi_saito.json"
   },
   {
     "id": "p_hiroshi_shimizu",
