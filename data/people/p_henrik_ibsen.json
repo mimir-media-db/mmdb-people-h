@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_henrik_ibsen",
+  "name": "Henrik Ibsen",
+  "external_ids": {
+    "wikidata": "Q36661",
+    "imdb": "nm0406585"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1828,
+  "death_year": 1906
+}
