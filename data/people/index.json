@@ -2298,6 +2298,11 @@
     "path": "data/people/p_hamed_homayoun.json"
   },
   {
+    "id": "p_hamed_hosseini_sangari",
+    "name": "Hamed Hosseini Sangari",
+    "path": "data/people/p_hamed_hosseini_sangari.json"
+  },
+  {
     "id": "p_hamed_jafari",
     "name": "Hamed Jafari",
     "path": "data/people/p_hamed_jafari.json"
@@ -5010,6 +5015,11 @@
     "path": "data/people/p_hannaleena_hayha.json"
   },
   {
+    "id": "p_hannamaija_matila",
+    "name": "Hannamaija Matila",
+    "path": "data/people/p_hannamaija_matila.json"
+  },
+  {
     "id": "p_hannamaija_nikander",
     "name": "Hannamaija Nikander",
     "birth_year": 1982,
@@ -5032,6 +5042,12 @@
     "name": "Hanne Arendzen",
     "birth_year": 1986,
     "path": "data/people/p_hanne_arendzen.json"
+  },
+  {
+    "id": "p_hanne_hukkelberg",
+    "name": "Hanne Hukkelberg",
+    "birth_year": 1979,
+    "path": "data/people/p_hanne_hukkelberg.json"
   },
   {
     "id": "p_hanne_larsen",
@@ -6911,6 +6927,12 @@
     "id": "p_happy_walters",
     "name": "Happy Walters",
     "path": "data/people/p_happy_walters.json"
+  },
+  {
+    "id": "p_haqi_achmad",
+    "name": "Haqi Achmad",
+    "birth_year": 1990,
+    "path": "data/people/p_haqi_achmad.json"
   },
   {
     "id": "p_har_mar_superstar",
@@ -9240,6 +9262,12 @@
     "path": "data/people/p_haruma_miura.json"
   },
   {
+    "id": "p_harumi_fuki",
+    "name": "Harumi Fūki",
+    "birth_year": 1985,
+    "path": "data/people/p_harumi_fuki.json"
+  },
+  {
     "id": "p_harumi_inoue",
     "name": "Harumi Inoue",
     "birth_year": 1974,
@@ -11286,6 +11314,11 @@
     "path": "data/people/p_hector_alterio.json"
   },
   {
+    "id": "p_hector_amado",
+    "name": "Héctor Amado",
+    "path": "data/people/p_hector_amado.json"
+  },
+  {
     "id": "p_hector_anglada",
     "name": "Héctor Anglada",
     "birth_year": 1976,
@@ -12531,6 +12564,12 @@
     "path": "data/people/p_heinz_hoenig.json"
   },
   {
+    "id": "p_heinz_karl_gruber",
+    "name": "Heinz Karl Grüber",
+    "birth_year": 1943,
+    "path": "data/people/p_heinz_karl_gruber.json"
+  },
+  {
     "id": "p_heinz_kasper",
     "name": "Heinz Kasper",
     "path": "data/people/p_heinz_kasper.json"
@@ -12792,6 +12831,12 @@
     "name": "Helen E. Fisher",
     "birth_year": 1945,
     "path": "data/people/p_helen_e_fisher.json"
+  },
+  {
+    "id": "p_helen_edmundson",
+    "name": "Helen Edmundson",
+    "birth_year": 1964,
+    "path": "data/people/p_helen_edmundson.json"
   },
   {
     "id": "p_helen_enado",
@@ -15473,6 +15518,11 @@
     "path": "data/people/p_henriett.json"
   },
   {
+    "id": "p_henrietta_ashworth",
+    "name": "Henrietta Ashworth",
+    "path": "data/people/p_henrietta_ashworth.json"
+  },
+  {
     "id": "p_henrietta_keresztes",
     "name": "Henrietta Keresztes",
     "birth_year": 1977,
@@ -15658,6 +15708,11 @@
     "name": "Henrik Elvestad",
     "birth_year": 1973,
     "path": "data/people/p_henrik_elvestad.json"
+  },
+  {
+    "id": "p_henrik_engstrom",
+    "name": "Henrik Engström",
+    "path": "data/people/p_henrik_engstrom.json"
   },
   {
     "id": "p_henrik_frederiksen",
@@ -17587,6 +17642,12 @@
     "path": "data/people/p_hermelinda_lujan.json"
   },
   {
+    "id": "p_hermes_lu",
+    "name": "Hermes Lu",
+    "birth_year": 1983,
+    "path": "data/people/p_hermes_lu.json"
+  },
+  {
     "id": "p_hermes_paralluelo",
     "name": "Hermes Paralluelo",
     "birth_year": 1981,
@@ -19316,6 +19377,12 @@
     "name": "Hillman Curtis",
     "birth_year": 1961,
     "path": "data/people/p_hillman_curtis.json"
+  },
+  {
+    "id": "p_hilly_martinek",
+    "name": "Hilly Martinek",
+    "birth_year": 1977,
+    "path": "data/people/p_hilly_martinek.json"
   },
   {
     "id": "p_hilma_huovinen",
