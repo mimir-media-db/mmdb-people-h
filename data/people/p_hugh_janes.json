@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hugh_janes",
+  "name": "Hugh Janes",
+  "external_ids": {
+    "wikidata": "Q22661621",
+    "imdb": "nm1544301"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}
