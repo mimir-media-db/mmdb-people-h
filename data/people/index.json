@@ -2360,6 +2360,11 @@
     "path": "data/people/p_hami_torabi.json"
   },
   {
+    "id": "p_hamid_akbari_khameneh",
+    "name": "Hamid Akbari Khameneh",
+    "path": "data/people/p_hamid_akbari_khameneh.json"
+  },
+  {
     "id": "p_hamid_akhoundi",
     "name": "Hamid Akhoundi",
     "birth_year": 1960,
@@ -4892,6 +4897,12 @@
     "path": "data/people/p_hannah_pearl_utt.json"
   },
   {
+    "id": "p_hannah_peel",
+    "name": "Hannah Peel",
+    "birth_year": 1982,
+    "path": "data/people/p_hannah_peel.json"
+  },
+  {
     "id": "p_hannah_quinlivan",
     "name": "Hannah Quinlivan",
     "birth_year": 1993,
@@ -5266,6 +5277,11 @@
     "name": "Hannes Burger",
     "birth_year": 1937,
     "path": "data/people/p_hannes_burger.json"
+  },
+  {
+    "id": "p_hannes_de_maeyer",
+    "name": "Hannes De Maeyer",
+    "path": "data/people/p_hannes_de_maeyer.json"
   },
   {
     "id": "p_hannes_held",
@@ -7662,6 +7678,12 @@
     "path": "data/people/p_hark_bohm.json"
   },
   {
+    "id": "p_harkaitz_cano",
+    "name": "Harkaitz Cano",
+    "birth_year": 1975,
+    "path": "data/people/p_harkaitz_cano.json"
+  },
+  {
     "id": "p_harki_bhambra",
     "name": "Harki Bhambra",
     "birth_year": 1985,
@@ -8032,6 +8054,11 @@
     "name": "Harp Farmer",
     "birth_year": 1984,
     "path": "data/people/p_harp_farmer.json"
+  },
+  {
+    "id": "p_harper_dill",
+    "name": "Harper Dill",
+    "path": "data/people/p_harper_dill.json"
   },
   {
     "id": "p_harper_leigh_alexander",
@@ -10216,6 +10243,12 @@
     "path": "data/people/p_hauwa_allahbura.json"
   },
   {
+    "id": "p_hava_divon",
+    "name": "Hava Divon",
+    "birth_year": 1967,
+    "path": "data/people/p_hava_divon.json"
+  },
+  {
     "id": "p_hava_ortman",
     "name": "Hava Ortman",
     "birth_year": 1950,
@@ -10699,6 +10732,11 @@
     "name": "Hayley Sales",
     "birth_year": 1986,
     "path": "data/people/p_hayley_sales.json"
+  },
+  {
+    "id": "p_hayley_schore",
+    "name": "Hayley Schore",
+    "path": "data/people/p_hayley_schore.json"
   },
   {
     "id": "p_hayley_squires",
@@ -16878,6 +16916,11 @@
     "path": "data/people/p_henry_stange.json"
   },
   {
+    "id": "p_henry_stenberg",
+    "name": "Henry Stenberg",
+    "path": "data/people/p_henry_stenberg.json"
+  },
+  {
     "id": "p_henry_stram",
     "name": "Henry Stram",
     "birth_year": 1954,
@@ -17183,6 +17226,12 @@
     "name": "Herbert Bautista",
     "birth_year": 1968,
     "path": "data/people/p_herbert_bautista.json"
+  },
+  {
+    "id": "p_herbert_bianchi",
+    "name": "Herbert Bianchi",
+    "birth_year": 1980,
+    "path": "data/people/p_herbert_bianchi.json"
   },
   {
     "id": "p_herbert_biberman",
@@ -17843,6 +17892,12 @@
     "path": "data/people/p_hernan_caire.json"
   },
   {
+    "id": "p_hernan_casciari",
+    "name": "Hernán Casciari",
+    "birth_year": 1971,
+    "path": "data/people/p_hernan_casciari.json"
+  },
+  {
     "id": "p_hernan_crespo",
     "name": "Hernán Crespo",
     "birth_year": 1975,
@@ -17920,6 +17975,12 @@
     "name": "Hernán Mendoza",
     "birth_year": 1963,
     "path": "data/people/p_hernan_mendoza.json"
+  },
+  {
+    "id": "p_hernan_moyano",
+    "name": "Hernán Moyano",
+    "birth_year": 1977,
+    "path": "data/people/p_hernan_moyano.json"
   },
   {
     "id": "p_hernan_musaluppi",
@@ -18289,6 +18350,12 @@
     "path": "data/people/p_herwig_ilegems.json"
   },
   {
+    "id": "p_herwig_zamernik",
+    "name": "Herwig Zamernik",
+    "birth_year": 1972,
+    "path": "data/people/p_herwig_zamernik.json"
+  },
+  {
     "id": "p_herwin_novianto",
     "name": "Herwin Novianto",
     "birth_year": 1965,
@@ -18632,6 +18699,12 @@
     "name": "Hidekazu Tojo",
     "birth_year": 1950,
     "path": "data/people/p_hidekazu_tojo.json"
+  },
+  {
+    "id": "p_hideki_arai",
+    "name": "Hideki Arai",
+    "birth_year": 1963,
+    "path": "data/people/p_hideki_arai.json"
   },
   {
     "id": "p_hideki_kurauchi",
@@ -20335,6 +20408,12 @@
     "name": "Hiroko Satō",
     "birth_year": 1985,
     "path": "data/people/p_hiroko_sato.json"
+  },
+  {
+    "id": "p_hiroko_sebu",
+    "name": "Hiroko Sebu",
+    "birth_year": 1983,
+    "path": "data/people/p_hiroko_sebu.json"
   },
   {
     "id": "p_hiroko_yakushimaru",
@@ -26608,6 +26687,12 @@
     "name": "Hussain Munawwar",
     "birth_year": 1988,
     "path": "data/people/p_hussain_munawwar.json"
+  },
+  {
+    "id": "p_hussain_zaidi",
+    "name": "Hussain Zaidi",
+    "birth_year": 1968,
+    "path": "data/people/p_hussain_zaidi.json"
   },
   {
     "id": "p_hussani_mcrae",
