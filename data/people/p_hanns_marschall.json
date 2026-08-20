@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hanns_marschall",
+  "name": "Hanns Marschall",
+  "external_ids": {
+    "wikidata": "Q60459572",
+    "imdb": "nm0550405"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1895,
+  "death_year": 1966
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_alan_towers",
+  "name": "Harry Alan Towers",
+  "external_ids": {
+    "wikidata": "Q707869",
+    "imdb": "nm0869935"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1920,
+  "death_year": 2009
+}
