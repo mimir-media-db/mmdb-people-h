@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_harry_mulisch",
+  "name": "Harry Mulisch",
+  "external_ids": {
+    "wikidata": "Q927",
+    "imdb": "nm0611879"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2010
+}
