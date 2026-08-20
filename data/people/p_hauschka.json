@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hauschka",
+  "name": "Hauschka",
+  "external_ids": {
+    "wikidata": "Q91573",
+    "imdb": "nm2890617"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

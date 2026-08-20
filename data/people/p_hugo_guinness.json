@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_hugo_guinness",
+  "name": "Hugo Guinness",
+  "external_ids": {
+    "wikidata": "Q5933988",
+    "imdb": "nm2450453"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
