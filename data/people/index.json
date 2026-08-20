@@ -342,6 +342,12 @@
     "path": "data/people/p_habib_shahzad.json"
   },
   {
+    "id": "p_habib_wahid",
+    "name": "Habib Wahid",
+    "birth_year": 1979,
+    "path": "data/people/p_habib_wahid.json"
+  },
+  {
     "id": "p_habiba_nosheen",
     "name": "Habiba Nosheen",
     "birth_year": 1981,
@@ -5855,6 +5861,12 @@
     "path": "data/people/p_hans_low.json"
   },
   {
+    "id": "p_hans_luik",
+    "name": "Hans Luik",
+    "birth_year": 1927,
+    "path": "data/people/p_hans_luik.json"
+  },
+  {
     "id": "p_hans_lundgren",
     "name": "Hans Lundgren",
     "birth_year": 1947,
@@ -5942,6 +5954,12 @@
     "name": "Hans Peter Korff",
     "birth_year": 1942,
     "path": "data/people/p_hans_peter_korff.json"
+  },
+  {
+    "id": "p_hans_petter_blad",
+    "name": "Hans Petter Blad",
+    "birth_year": 1962,
+    "path": "data/people/p_hans_petter_blad.json"
   },
   {
     "id": "p_hans_petter_hansen",
@@ -7844,6 +7862,12 @@
     "path": "data/people/p_harriet_sansom_harris.json"
   },
   {
+    "id": "p_harriet_schock",
+    "name": "Harriet Schock",
+    "birth_year": 1941,
+    "path": "data/people/p_harriet_schock.json"
+  },
+  {
     "id": "p_harriet_slater",
     "name": "Harriet Slater",
     "birth_year": 1994,
@@ -8147,6 +8171,12 @@
     "name": "Harry Cook",
     "birth_year": 1991,
     "path": "data/people/p_harry_cook.json"
+  },
+  {
+    "id": "p_harry_crews",
+    "name": "Harry Crews",
+    "birth_year": 1935,
+    "path": "data/people/p_harry_crews.json"
   },
   {
     "id": "p_harry_danner",
@@ -9911,6 +9941,12 @@
     "path": "data/people/p_hawk_koch.json"
   },
   {
+    "id": "p_hawk_ostby",
+    "name": "Hawk Ostby",
+    "birth_year": 1965,
+    "path": "data/people/p_hawk_ostby.json"
+  },
+  {
     "id": "p_hawley_pratt",
     "name": "Hawley Pratt",
     "birth_year": 1911,
@@ -11184,6 +11220,11 @@
     "path": "data/people/p_hector_palma_troconis.json"
   },
   {
+    "id": "p_hector_quintero",
+    "name": "Héctor Quintero",
+    "path": "data/people/p_hector_quintero.json"
+  },
+  {
     "id": "p_hector_suarez",
     "name": "Héctor Suárez",
     "birth_year": 1938,
@@ -11912,6 +11953,12 @@
     "name": "Heikki Vihinen",
     "birth_year": 1963,
     "path": "data/people/p_heikki_vihinen.json"
+  },
+  {
+    "id": "p_heikki_vuento",
+    "name": "Heikki Vuento",
+    "birth_year": 1951,
+    "path": "data/people/p_heikki_vuento.json"
   },
   {
     "id": "p_heikko_deutschmann",
@@ -14103,6 +14150,12 @@
     "id": "p_helmut_lorin",
     "name": "Helmut Lorin",
     "path": "data/people/p_helmut_lorin.json"
+  },
+  {
+    "id": "p_helmut_lotti",
+    "name": "Helmut Lotti",
+    "birth_year": 1969,
+    "path": "data/people/p_helmut_lotti.json"
   },
   {
     "id": "p_helmut_markwort",
@@ -16871,6 +16924,12 @@
     "path": "data/people/p_herman_raucher.json"
   },
   {
+    "id": "p_herman_rechberger",
+    "name": "Herman Rechberger",
+    "birth_year": 1947,
+    "path": "data/people/p_herman_rechberger.json"
+  },
+  {
     "id": "p_herman_sikumbang",
     "name": "Herman Sikumbang",
     "birth_year": 1982,
@@ -17208,6 +17267,12 @@
     "name": "Hernán Rivera Mejía",
     "birth_year": 1955,
     "path": "data/people/p_hernan_rivera_mejia.json"
+  },
+  {
+    "id": "p_hernan_rodriguez_matte",
+    "name": "Hernán Rodríguez Matte",
+    "birth_year": 1972,
+    "path": "data/people/p_hernan_rodriguez_matte.json"
   },
   {
     "id": "p_hernan_rosselli",
@@ -17897,6 +17962,12 @@
     "name": "Hideki Matsui",
     "birth_year": 1974,
     "path": "data/people/p_hideki_matsui.json"
+  },
+  {
+    "id": "p_hideki_mori",
+    "name": "Hideki Mori",
+    "birth_year": 1961,
+    "path": "data/people/p_hideki_mori.json"
   },
   {
     "id": "p_hideki_nakazaki",
@@ -19569,6 +19640,12 @@
     "id": "p_hiromichi_nakao",
     "name": "Hiromichi Nakao",
     "path": "data/people/p_hiromichi_nakao.json"
+  },
+  {
+    "id": "p_hiromitsu_amano",
+    "name": "Hiromitsu Amano",
+    "birth_year": 1965,
+    "path": "data/people/p_hiromitsu_amano.json"
   },
   {
     "id": "p_hiromitsu_harada",
@@ -25162,6 +25239,11 @@
     "id": "p_humbi_entress",
     "name": "Humbi Entress",
     "path": "data/people/p_humbi_entress.json"
+  },
+  {
+    "id": "p_humera_arshad",
+    "name": "Humera Arshad",
+    "path": "data/people/p_humera_arshad.json"
   },
   {
     "id": "p_humeyra",
