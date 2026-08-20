@@ -4121,6 +4121,11 @@
     "path": "data/people/p_hank_hugues.json"
   },
   {
+    "id": "p_hank_j_manchini",
+    "name": "Hank J. Manchini",
+    "path": "data/people/p_hank_j_manchini.json"
+  },
+  {
     "id": "p_hank_levine",
     "name": "Hank Levine",
     "birth_year": 1965,
@@ -14107,6 +14112,12 @@
     "path": "data/people/p_helene_loiselle.json"
   },
   {
+    "id": "p_helene_maimann",
+    "name": "Helene Maimann",
+    "birth_year": 1946,
+    "path": "data/people/p_helene_maimann.json"
+  },
+  {
     "id": "p_helene_major",
     "name": "Hélène Major",
     "birth_year": 1952,
@@ -18163,6 +18174,12 @@
     "name": "Hernán Rodríguez Matte",
     "birth_year": 1972,
     "path": "data/people/p_hernan_rodriguez_matte.json"
+  },
+  {
+    "id": "p_hernan_ronsino",
+    "name": "Hernán Ronsino",
+    "birth_year": 1974,
+    "path": "data/people/p_hernan_ronsino.json"
   },
   {
     "id": "p_hernan_rosselli",
