@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_hansen",
+  "name": "Hans Hansen",
+  "external_ids": {
+    "wikidata": "Q33436584",
+    "imdb": "nm0360825"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1917,
+  "death_year": 2008
+}
