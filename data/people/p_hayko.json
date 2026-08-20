@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hayko",
+  "name": "Hayko",
+  "external_ids": {
+    "wikidata": "Q460071",
+    "imdb": "nm2597084"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973,
+  "death_year": 2021
+}
