@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_hans_christian_andersen",
+  "name": "Hans Christian Andersen",
+  "external_ids": {
+    "wikidata": "Q5673",
+    "imdb": "nm0026153"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1805,
+  "death_year": 1875
+}
