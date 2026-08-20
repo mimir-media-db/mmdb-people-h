@@ -743,6 +743,11 @@
     "path": "data/people/p_hagen_stoll.json"
   },
   {
+    "id": "p_hagen_troy",
+    "name": "Hagen Troy",
+    "path": "data/people/p_hagen_troy.json"
+  },
+  {
     "id": "p_hager_al_sharnouby",
     "name": "Hager Al Sharnouby",
     "birth_year": 1988,
@@ -1194,6 +1199,12 @@
     "id": "p_hakan_ehn",
     "name": "Håkan Ehn",
     "path": "data/people/p_hakan_ehn.json"
+  },
+  {
+    "id": "p_hakan_evrensel",
+    "name": "Hakan Evrensel",
+    "birth_year": 1966,
+    "path": "data/people/p_hakan_evrensel.json"
   },
   {
     "id": "p_hakan_gurtop",
@@ -5432,6 +5443,12 @@
     "name": "Hans Alfredson",
     "birth_year": 1931,
     "path": "data/people/p_hans_alfredson.json"
+  },
+  {
+    "id": "p_hans_appelqvist",
+    "name": "Hans Appelqvist",
+    "birth_year": 1976,
+    "path": "data/people/p_hans_appelqvist.json"
   },
   {
     "id": "p_hans_arnbom",
@@ -15617,6 +15634,12 @@
     "path": "data/people/p_henrik_rafaelsen.json"
   },
   {
+    "id": "p_henrik_rambe",
+    "name": "Henrik Rambe",
+    "birth_year": 1971,
+    "path": "data/people/p_henrik_rambe.json"
+  },
+  {
     "id": "p_henrik_regel",
     "name": "Henrik Regel",
     "birth_year": 1978,
@@ -16711,6 +16734,11 @@
     "path": "data/people/p_herbert_gernot.json"
   },
   {
+    "id": "p_herbert_golder",
+    "name": "Herbert Golder",
+    "path": "data/people/p_herbert_golder.json"
+  },
+  {
     "id": "p_herbert_gronemeyer",
     "name": "Herbert Grönemeyer",
     "birth_year": 1956,
@@ -16827,6 +16855,12 @@
     "name": "Herbert Schäfer",
     "birth_year": 1968,
     "path": "data/people/p_herbert_schafer.json"
+  },
+  {
+    "id": "p_herbert_schwarze",
+    "name": "Herbert Schwarze",
+    "birth_year": 1958,
+    "path": "data/people/p_herbert_schwarze.json"
   },
   {
     "id": "p_herbert_schwering",
@@ -18272,6 +18306,12 @@
     "path": "data/people/p_hideyoshi_kan.json"
   },
   {
+    "id": "p_hideyuki_fukasawa",
+    "name": "Hideyuki Fukasawa",
+    "birth_year": 1970,
+    "path": "data/people/p_hideyuki_fukasawa.json"
+  },
+  {
     "id": "p_hideyuki_hirayama",
     "name": "Hideyuki Hirayama",
     "birth_year": 1950,
@@ -19528,6 +19568,12 @@
     "name": "Hirohisa Sasaki",
     "birth_year": 1961,
     "path": "data/people/p_hirohisa_sasaki.json"
+  },
+  {
+    "id": "p_hirohisa_soda",
+    "name": "Hirohisa Soda",
+    "birth_year": 1947,
+    "path": "data/people/p_hirohisa_soda.json"
   },
   {
     "id": "p_hirokazu_koreeda",
@@ -20986,6 +21032,12 @@
     "name": "Hokuto Yoshino",
     "birth_year": 1997,
     "path": "data/people/p_hokuto_yoshino.json"
+  },
+  {
+    "id": "p_holeg_spies",
+    "name": "Holeg Spies",
+    "birth_year": 1972,
+    "path": "data/people/p_holeg_spies.json"
   },
   {
     "id": "p_holger_andersson",
@@ -22540,6 +22592,12 @@
     "name": "Hossein Moheb Ahari",
     "birth_year": 1950,
     "path": "data/people/p_hossein_moheb_ahari.json"
+  },
+  {
+    "id": "p_hossein_mortezaeian_abkenar",
+    "name": "Hossein Mortezaeian Abkenar",
+    "birth_year": 1963,
+    "path": "data/people/p_hossein_mortezaeian_abkenar.json"
   },
   {
     "id": "p_hossein_namazi",
@@ -25128,6 +25186,12 @@
     "name": "Hugues Nancy",
     "birth_year": 1972,
     "path": "data/people/p_hugues_nancy.json"
+  },
+  {
+    "id": "p_hugues_pagan",
+    "name": "Hugues Pagan",
+    "birth_year": 1947,
+    "path": "data/people/p_hugues_pagan.json"
   },
   {
     "id": "p_hugues_poulain",
