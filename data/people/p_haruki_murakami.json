@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_haruki_murakami",
+  "name": "Haruki Murakami",
+  "external_ids": {
+    "wikidata": "Q134798",
+    "imdb": "nm1633142"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
